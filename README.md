@@ -41,18 +41,20 @@ My goal is to combine enterprise-grade development experience with modern techno
 ## Key skills
 
 <!-- Replace inline icons with a table for consistent cross-browser columns -->
-<table>
+<table style="width:100%; table-layout:fixed;">
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript" /><br>JavaScript</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="typescript" /><br>TypeScript</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="react" /><br>React</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="nodejs" /><br>Node.js</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="java" /><br>Java</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python" /><br>Python</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="36" alt="plsql" /><br>PL/SQL</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="mongodb" /><br>MongoDB</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="docker" /><br>Docker</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="cplusplus" /><br>C++</td>
+    <td style="width:20%; text-align:center; vertical-align:top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript" /><br>JavaScript</td>
+    <td style="width:20%; text-align:center; vertical-align:top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="typescript" /><br>TypeScript</td>
+    <td style="width:20%; text-align:center; vertical-align:top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="react" /><br>React</td>
+    <td style="width:20%; text-align:center; vertical-align:top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="nodejs" /><br>Node.js</td>
+    <td style="width:20%; text-align:center; vertical-align:top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="java" /><br>Java</td>
+  </tr>
+  <tr>
+    <td style="width:20%; text-align:center; vertical-align:top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python" /><br>Python</td>
+    <td style="width:20%; text-align:center; vertical-align:top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="36" alt="plsql" /><br>PL/SQL</td>
+    <td style="width:20%; text-align:center; vertical-align:top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="mongodb" /><br>MongoDB</td>
+    <td style="width:20%; text-align:center; vertical-align:top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="docker" /><br>Docker</td>
+    <td style="width:20%; text-align:center; vertical-align:top;"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="cplusplus" /><br>C++</td>
   </tr>
 </table>
 
@@ -81,4 +83,3 @@ My goal is to combine enterprise-grade development experience with modern techno
 
 - LinkedIn: https://www.linkedin.com/in/ata-can-yaymacı/
 - Medium: https://medium.com/@atacanymc
-- Email: youremail@example.com (please update)
