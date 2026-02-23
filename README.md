@@ -1,8 +1,8 @@
-# Hi, I'm Ata Can 👋
+# Hello there👋, I'm Ata Can YAYMACI
 
 <h3>I'm Ata Can — a software developer, learner, and curious problem solver.</h3>
 
-<p>This repository hosts my GitHub profile README. Here you'll find a short introduction, highlighted projects, my tech stack, and ways to get in touch. If you'd like a specific language version (e.g. bilingual or more concise), tell me and I'll adapt it.</p>
+<p align="left">Welcome to my page. I'm Ata Can, and I'm delighted to have you here.<br><br>This page is a space where I share my thoughts, projects, and ideas with the world. Whether you're here out of curiosity, interest, or just passing by, I hope you find something that resonates with you.<br><br>Feel free to explore the content, engage with the community, and reach out if you have any questions or simply want to connect.</p>
 
 ---
 
@@ -68,8 +68,6 @@ My goal is to combine enterprise-grade development experience with modern techno
 
 <!-- START_LATEST_PROJECTS -->
 - Personal Website — portfolio & blog: https://github.com/AtaCanYmc
-- Project 2 — short description
-- Project 3 — short description
 <!-- END_LATEST_PROJECTS -->
 
 (See my repositories for more projects.)
