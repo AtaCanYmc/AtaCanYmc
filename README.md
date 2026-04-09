@@ -63,8 +63,8 @@ My goal is to combine enterprise-grade development experience with modern techno
 ## Latest projects
 
 <!-- START_LATEST_PROJECTS -->
-- [izmir-open-data-js](https://github.com/AtaCanYmc/izmir-open-data-js) — İzmir Büyükşehir Belediyesi Açık Veri Portalı (acikveri.bizizmir.com) API'lerini JavaScript ve TypeScript projelerinizde kolayca kullanmanızı sağlayan hafif ve modern bir kütüphanedir.
 - [AtaCanYmc](https://github.com/AtaCanYmc/AtaCanYmc) — My README
+- [izmir-open-data-js](https://github.com/AtaCanYmc/izmir-open-data-js) — İzmir Büyükşehir Belediyesi Açık Veri Portalı (acikveri.bizizmir.com) API'lerini JavaScript ve TypeScript projelerinizde kolayca kullanmanızı sağlayan hafif ve modern bir kütüphanedir.
 - [ForexFactoryScrapper](https://github.com/AtaCanYmc/ForexFactoryScrapper) — ForexFactoryScrapper is a Python-based web scraping tool designed to extract financial event data from the ForexFactory website. This project provides a simple and effective way to scrape calendar events, forecast data, actual values, and other relevant information for forex trading analysis.
 - [izbb-acikveri-haritalari](https://github.com/AtaCanYmc/izbb-acikveri-haritalari) — İzmir Açık Veri Haritaları, İzmir Büyükşehir Belediyesi'nin açık veri API'lerini kullanarak, şehrin çeşitli kategorilerindeki önemli yerlerini etkileşimli haritalar üzerinde sunmaktadır.
 - [playstation-market-search](https://github.com/AtaCanYmc/playstation-market-search) — PSN network search api for price of the games
