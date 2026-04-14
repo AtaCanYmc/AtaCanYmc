@@ -63,10 +63,10 @@ My goal is to combine enterprise-grade development experience with modern techno
 ## Latest projects
 
 <!-- START_LATEST_PROJECTS -->
+- [AtaCanYmc](https://github.com/AtaCanYmc/AtaCanYmc) — My README
 - [izmir-open-api-data-backup](https://github.com/AtaCanYmc/izmir-open-api-data-backup) — Bu proje, izmir-open-data-js kutuphanesi ile ESHOT verisini gunluk yedekler ve GitHub Pages uzerinden hat bazli goruntuler. Ek olarak verileri SQLite uzerinde saklamak icin better-sqlite3 kullanir.
 - [izmir-open-data-js](https://github.com/AtaCanYmc/izmir-open-data-js) — İzmir Büyükşehir Belediyesi Açık Veri Portalı (acikveri.bizizmir.com) API'lerini JavaScript ve TypeScript projelerinizde kolayca kullanmanızı sağlayan hafif ve modern bir kütüphanedir.
 - [RubberOtter](https://github.com/AtaCanYmc/RubberOtter) — Rubber Otter runs on an ATmega32U4-based microcontroller (Arduino Leonardo or Pro Micro are supported). The firmware listens on a serial Stream (by default Serial1 — hardware UART connected to an HM-10 BLE module). Each incoming framed packet is parsed by the Packet Parser module and passed to the Command Executor.
-- [AtaCanYmc](https://github.com/AtaCanYmc/AtaCanYmc) — My README
 - [ForexFactoryScrapper](https://github.com/AtaCanYmc/ForexFactoryScrapper) — ForexFactoryScrapper is a Python-based web scraping tool designed to extract financial event data from the ForexFactory website. This project provides a simple and effective way to scrape calendar events, forecast data, actual values, and other relevant information for forex trading analysis.
 <!-- END_LATEST_PROJECTS -->
 
