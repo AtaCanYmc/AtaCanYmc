@@ -67,6 +67,7 @@ My goal is to combine enterprise-grade development experience with modern techno
 - [ForexFactoryScrapper](https://github.com/AtaCanYmc/ForexFactoryScrapper) — ForexFactoryScrapper is a Python-based web scraping tool designed to extract financial event data from the ForexFactory website. This project provides a simple and effective way to scrape calendar events, forecast data, actual values, and other relevant information for forex trading analysis.
 - [eshot-puzzle](https://github.com/AtaCanYmc/eshot-puzzle) — ESHOT Puzzle, İzmir toplu taşıma durakları ve hatlarıyla oynanan bir bulmaca/oyun uygulamasıdır. Kullanıcılar, başlangıç ve hedef duraklar arasında en kısa veya en ilginç rotayı bulmaya çalışır.
 - [izmir-open-api-data-backup](https://github.com/AtaCanYmc/izmir-open-api-data-backup) — Bu proje, izmir-open-data-js kutuphanesi ile ESHOT verisini gunluk yedekler ve Supabase PostgreSQL veritabaninda saklar.
+- [izmir-open-data-js](https://github.com/AtaCanYmc/izmir-open-data-js) — İzmir Büyükşehir Belediyesi Açık Veri Portalı (acikveri.bizizmir.com) API'lerini JavaScript ve TypeScript projelerinizde kolayca kullanmanızı sağlayan hafif ve modern bir kütüphanedir.
 <!-- END_LATEST_PROJECTS -->
 
 (See my repositories for more projects.)
