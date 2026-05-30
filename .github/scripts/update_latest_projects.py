@@ -99,7 +99,7 @@ def git_commit_push():
 
 def main():
     owner = get_owner()
-    per_page = int(os.environ.get('NUM_PROJECTS', '5'))
+    per_page = int(os.environ.get('NUM_PROJECTS', '6'))
     token = os.environ.get('GITHUB_TOKEN')
 
     print(f'Fetching latest repos for owner: {owner}')

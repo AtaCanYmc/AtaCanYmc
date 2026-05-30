@@ -28,6 +28,6 @@ jobs:
       - name: Run updater
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NUM_PROJECTS: '5'
+          NUM_PROJECTS: '6'
         run: python .github/scripts/update_latest_projects.py
 
