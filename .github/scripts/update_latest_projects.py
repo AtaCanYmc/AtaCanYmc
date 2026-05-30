@@ -22,7 +22,7 @@ def get_owner():
     return os.environ.get('REPO_OWNER') or 'AtaCanYmc'
 
 
-def fetch_repos(owner, per_page=5, token=None):
+def fetch_repos(owner, per_page=6, token=None):
     url = f'https://api.github.com/users/{owner}/repos'
     params = {'per_page': per_page, 'sort': 'updated', 'type': 'owner'}
     headers = {'Accept': 'application/vnd.github.v3+json'}
