@@ -27,7 +27,7 @@
 
 ## About me
 
-I am a Full Stack Software Developer over 3 years of professional experience in enterprise and modern web technologies.
+I am a Full Stack Software Developer over 4 years of professional experience in enterprise and modern web technologies.
 
 Beyond day-to-day work, I continuously learn and experiment with:
 - Node.js & Python for web apps and backend services
