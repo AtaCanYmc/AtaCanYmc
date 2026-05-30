@@ -26,14 +26,26 @@ def fetch_repos(owner, per_page=5, token=None):
     url = f'https://api.github.com/users/{owner}/repos'
     params = {'per_page': per_page, 'sort': 'updated', 'type': 'owner'}
     headers = {'Accept': 'application/vnd.github.v3+json'}
+
     if token:
         headers['Authorization'] = f'token {token}'
+
     r = requests.get(url, params=params, headers=headers, timeout=30)
     r.raise_for_status()
     items = r.json()
-    # filter archived and forks
-    items = [it for it in items if not it.get('fork') and not it.get('archived')]
-    return items[:per_page]
+
+    # filter archived and forks and profile readme repo (if exists)
+    profile_readme_repo = owner.lower()
+    filtered_items = []
+    for it in items:
+        is_fork = it.get('fork')
+        is_archived = it.get('archived')
+        is_profile_readme = it.get('name', '').lower() == profile_readme_repo
+
+        if not is_fork and not is_archived and not is_profile_readme:
+            filtered_items.append(it)
+
+    return filtered_items[:per_page]
 
 
 def format_markdown_list(repos):
