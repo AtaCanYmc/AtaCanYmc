@@ -63,11 +63,11 @@ My goal is to combine enterprise-grade development experience with modern techno
 ## Latest projects
 
 <!-- START_LATEST_PROJECTS -->
-- [cukur-var-web](https://github.com/AtaCanYmc/cukur-var-web) — Çukur Var, kullanıcıların çevrelerinde karşılaştıkları altyapı sorunlarını (çukur, bozuk yol, vb.) fotoğraflı ve konum bilgili olarak kolayca raporlayabilmelerini sağlayan modern bir web uygulamasıdır.
+- [robo-market-search](https://github.com/AtaCanYmc/robo-market-search) — Türkiye'nin en popüler 4 elektronik ve robotik pazarında (Robolink, Robotistan, Robo90, Direnç.net) tek satır kodla, çok hızlı ve eşzamanlı arama yapmanızı sağlayan Python istemci kütüphanesi.
+- [toolboxdb-ui](https://github.com/AtaCanYmc/toolboxdb-ui) — ToolboxDB UI is a highly modern, professional, and responsive Single Page Application (SPA) dashboard designed to manage an AI-Powered Smart Electronics Inventory & IoT Component Tracker. It connects to a FastAPI backend to provide seamless inventory tracking, AI-powered invoice processing, and creative project suggestions.
 - [toolboxdb-api](https://github.com/AtaCanYmc/toolboxdb-api) — Built for makers and IoT developers to track component lifecycles, automatically ingest invoice and batch data via AI/LLM-powered PDF parsing, and optimize query performance using Redis caching. Parsed invoices are stored in a staging area for verification before being mapped to inventory, ensuring safe and auditable ingestion.
+- [cukur-var-web](https://github.com/AtaCanYmc/cukur-var-web) — Çukur Var, kullanıcıların çevrelerinde karşılaştıkları altyapı sorunlarını (çukur, bozuk yol, vb.) fotoğraflı ve konum bilgili olarak kolayca raporlayabilmelerini sağlayan modern bir web uygulamasıdır.
 - [ForexFactoryScrapper](https://github.com/AtaCanYmc/ForexFactoryScrapper) — ForexFactoryScrapper is a Python-based web scraping tool designed to extract financial event data from the ForexFactory website. This project provides a simple and effective way to scrape calendar events, forecast data, actual values, and other relevant information for forex trading analysis.
-- [ForexFactoryScrapperChat](https://github.com/AtaCanYmc/ForexFactoryScrapperChat) — AI-powered conversational assistant and economic event analyzer. This system combines real-time data scraping pipelines (covering forex, cryptocurrencies, metals, and energy) with state-of-the-art Large Language Models
-- [eshot-puzzle](https://github.com/AtaCanYmc/eshot-puzzle) — ESHOT Puzzle, İzmir toplu taşıma durakları ve hatlarıyla oynanan bir bulmaca/oyun uygulamasıdır. Kullanıcılar, başlangıç ve hedef duraklar arasında en kısa veya en ilginç rotayı bulmaya çalışır.
 <!-- END_LATEST_PROJECTS -->
 
 (See my repositories for more projects.)
