@@ -102,10 +102,11 @@ My philosophy is simple: **Clean code, minimalist design, and scalable architect
 > **Note:** The list below is dynamically updated via a custom GitHub Actions automation (`update_latest_projects.py`). It fetches my most recent and active repositories to keep this portfolio fresh!
 
 <!-- START_LATEST_PROJECTS -->
-- [ForexFactoryScrapperChat](https://github.com/AtaCanYmc/ForexFactoryScrapperChat) — AI-powered conversational assistant and economic event analyzer. This system combines real-time data scraping pipelines (covering forex, cryptocurrencies, metals, and energy) with state-of-the-art Large Language Models
-- [ForexFactoryScrapper](https://github.com/AtaCanYmc/ForexFactoryScrapper) — ForexFactoryScrapper is a Python-based web scraping tool designed to extract financial event data from the ForexFactory website. This project provides a simple and effective way to scrape calendar events, forecast data, actual values, and other relevant information for forex trading analysis.
-- [eshot-puzzle](https://github.com/AtaCanYmc/eshot-puzzle) — ESHOT Puzzle, İzmir toplu taşıma durakları ve hatlarıyla oynanan bir bulmaca/oyun uygulamasıdır. Kullanıcılar, başlangıç ve hedef duraklar arasında en kısa veya en ilginç rotayı bulmaya çalışır.
-- [izmir-open-api-data-backup](https://github.com/AtaCanYmc/izmir-open-api-data-backup) — Bu proje, izmir-open-data-js kutuphanesi ile ESHOT verisini gunluk yedekler ve Supabase PostgreSQL veritabaninda saklar.
+- [izmir-nobetci-eczane-haritasi](https://github.com/AtaCanYmc/izmir-nobetci-eczane-haritasi) — İzmir genelindeki nöbetçi eczaneleri ilçe sınırlarına bağlı kalmaksızın, kullanıcıyı merkeze alan bir deneyimle sunan modern bir web uygulamasıdır.
+- [izbb-acikveri-haritalari](https://github.com/AtaCanYmc/izbb-acikveri-haritalari) — İzmir Açık Veri Haritaları, İzmir Büyükşehir Belediyesi'nin açık veri API'lerini kullanarak, şehrin çeşitli kategorilerindeki önemli yerlerini etkileşimli haritalar üzerinde sunmaktadır.
+- [izmir-open-data-java](https://github.com/AtaCanYmc/izmir-open-data-java) — İzmir Büyükşehir Belediyesi Açık Veri Portalı ve Open API servisleri için modern, asenkron ve tip güvenli (Java 17 Records) Enterprise Java İstemcisi.
+- [izmir-open-data-go](https://github.com/AtaCanYmc/izmir-open-data-go) — İzmir Büyükşehir Belediyesi Açık Veri Portalı ve Open API servisleri için modern, Clean Architecture prensiplerine uygun, tip güvenli (Type-safe) Go istemcisi.
+- [izmir-open-data-js](https://github.com/AtaCanYmc/izmir-open-data-js) — İzmir Büyükşehir Belediyesi Açık Veri Portalı (acikveri.bizizmir.com) API'lerini JavaScript ve TypeScript projelerinizde kolayca kullanmanızı sağlayan hafif ve modern bir kütüphanedir.
 <!-- END_LATEST_PROJECTS -->
 
 ---
