@@ -103,11 +103,11 @@ My philosophy is simple: **Clean code, minimalist design, and scalable architect
 > **Note:** The list below is dynamically updated via a custom GitHub Actions automation (`update_latest_projects.py`). It fetches my most recent and active repositories to keep this portfolio fresh!
 
 <!-- START_LATEST_PROJECTS -->
+- [copyright-free-image-viewer](https://github.com/AtaCanYmc/copyright-free-image-viewer) — A simple Flask-based web UI to preview copyright-free image search results and save images based on Yes/No decisions.
+- [stock-fetcher](https://github.com/AtaCanYmc/stock-fetcher) — Stock Fetcher is a standalone, lightweight Python library for fetching copyright-free images and photos from various popular sources such as Pexels, Pixabay, Unsplash, and Flickr.
 - [izmir-nobetci-eczane-haritasi](https://github.com/AtaCanYmc/izmir-nobetci-eczane-haritasi) — İzmir genelindeki nöbetçi eczaneleri ilçe sınırlarına bağlı kalmaksızın, kullanıcıyı merkeze alan bir deneyimle sunan modern bir web uygulamasıdır.
 - [izbb-acikveri-haritalari](https://github.com/AtaCanYmc/izbb-acikveri-haritalari) — İzmir Açık Veri Haritaları, İzmir Büyükşehir Belediyesi'nin açık veri API'lerini kullanarak, şehrin çeşitli kategorilerindeki önemli yerlerini etkileşimli haritalar üzerinde sunmaktadır.
 - [izmir-open-data-java](https://github.com/AtaCanYmc/izmir-open-data-java) — İzmir Büyükşehir Belediyesi Açık Veri Portalı ve Open API servisleri için modern, asenkron ve tip güvenli (Java 17 Records) Enterprise Java İstemcisi.
-- [izmir-open-data-go](https://github.com/AtaCanYmc/izmir-open-data-go) — İzmir Büyükşehir Belediyesi Açık Veri Portalı ve Open API servisleri için modern, Clean Architecture prensiplerine uygun, tip güvenli (Type-safe) Go istemcisi.
-- [izmir-open-data-js](https://github.com/AtaCanYmc/izmir-open-data-js) — İzmir Büyükşehir Belediyesi Açık Veri Portalı (acikveri.bizizmir.com) API'lerini JavaScript ve TypeScript projelerinizde kolayca kullanmanızı sağlayan hafif ve modern bir kütüphanedir.
 <!-- END_LATEST_PROJECTS -->
 
 ---
