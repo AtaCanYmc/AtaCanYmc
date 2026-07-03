@@ -104,10 +104,10 @@ My philosophy is simple: **Clean code, minimalist design, and scalable architect
 
 <!-- START_LATEST_PROJECTS -->
 - [SentinelCell-MAS-Immune-System](https://github.com/AtaCanYmc/SentinelCell-MAS-Immune-System) — SentinelCell is an intelligent middleware—an "Immune System"—for MAS. It intercepts inter-agent traffic in real-time without introducing latency, validates the data against a centralized SchemaRegistry (powered by MCP), and automatically repairs any malformed JSON payloads using LLM inference (Self-Healing).
+- [okey-vision-ts](https://github.com/AtaCanYmc/okey-vision-ts)
+- [okey-solver-ts](https://github.com/AtaCanYmc/okey-solver-ts) — A TypeScript library for evaluating and finding the best arrangement of tiles for games like Rummikub and Okey 101.
 - [cukur-var-web](https://github.com/AtaCanYmc/cukur-var-web) — Çukur Var, kullanıcıların çevrelerinde karşılaştıkları altyapı sorunlarını (çukur, bozuk yol, vb.) fotoğraflı ve konum bilgili olarak kolayca raporlayabilmelerini sağlayan modern bir web uygulamasıdır.
 - [copyright-free-image-viewer](https://github.com/AtaCanYmc/copyright-free-image-viewer) — A simple Flask-based web UI to preview copyright-free image search results and save images based on Yes/No decisions.
-- [stock-fetcher](https://github.com/AtaCanYmc/stock-fetcher) — Stock Fetcher is a standalone, lightweight Python library for fetching copyright-free images and photos from various popular sources such as Pexels, Pixabay, Unsplash, and Flickr.
-- [izmir-nobetci-eczane-haritasi](https://github.com/AtaCanYmc/izmir-nobetci-eczane-haritasi) — İzmir genelindeki nöbetçi eczaneleri ilçe sınırlarına bağlı kalmaksızın, kullanıcıyı merkeze alan bir deneyimle sunan modern bir web uygulamasıdır.
 <!-- END_LATEST_PROJECTS -->
 
 ---
