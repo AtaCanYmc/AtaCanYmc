@@ -103,9 +103,9 @@ My philosophy is simple: **Clean code, minimalist design, and scalable architect
 > **Note:** The list below is dynamically updated via a custom GitHub Actions automation (`update_latest_projects.py`). It fetches my most recent and active repositories to keep this portfolio fresh!
 
 <!-- START_LATEST_PROJECTS -->
-- [okey-solver-py](https://github.com/AtaCanYmc/okey-solver-py) — Python library for solving Okey & Rummikub tile arrangements and processing board layouts.
-- [okey-vision-ts](https://github.com/AtaCanYmc/okey-vision-ts) — TypeScript vision pipeline for turning camera frames into okey-solver-ts tile arrangements.
 - [SentinelCell-MAS-Immune-System](https://github.com/AtaCanYmc/SentinelCell-MAS-Immune-System) — SentinelCell is an intelligent middleware—an "Immune System"—for MAS. It intercepts inter-agent traffic in real-time without introducing latency, validates the data against a centralized SchemaRegistry (powered by MCP), and automatically repairs any malformed JSON payloads using LLM inference (Self-Healing).
+- [okey-vision-ts](https://github.com/AtaCanYmc/okey-vision-ts) — TypeScript vision pipeline for turning camera frames into okey-solver-ts tile arrangements.
+- [okey-solver-py](https://github.com/AtaCanYmc/okey-solver-py) — Python library for solving Okey & Rummikub tile arrangements and processing board layouts.
 - [okey-solver-ts](https://github.com/AtaCanYmc/okey-solver-ts) — A TypeScript library for evaluating and finding the best arrangement of tiles for games like Rummikub and Okey 101.
 - [cukur-var-web](https://github.com/AtaCanYmc/cukur-var-web) — Çukur Var, kullanıcıların çevrelerinde karşılaştıkları altyapı sorunlarını (çukur, bozuk yol, vb.) fotoğraflı ve konum bilgili olarak kolayca raporlayabilmelerini sağlayan modern bir web uygulamasıdır.
 <!-- END_LATEST_PROJECTS -->
