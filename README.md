@@ -103,11 +103,11 @@ My philosophy is simple: **Clean code, minimalist design, and scalable architect
 > **Note:** The list below is dynamically updated via a custom GitHub Actions automation (`update_latest_projects.py`). It fetches my most recent and active repositories to keep this portfolio fresh!
 
 <!-- START_LATEST_PROJECTS -->
+- [IstakaUstasi](https://github.com/AtaCanYmc/IstakaUstasi) — Istaka Ustası is a full-stack Okey board solver and computer vision application. It helps players scan their physical Okey rack using a camera or select tiles manually, and employs optimization engines to solve the tiles into optimal melds (Runs, Groups, and Doubles) for Okey and 101 Okey games.
 - [okey-solver-py](https://github.com/AtaCanYmc/okey-solver-py) — Python library for solving Okey & Rummikub tile arrangements and processing board layouts.
 - [ResuMesh](https://github.com/AtaCanYmc/ResuMesh) — ResuMesh is a self-hosted, dynamic portfolio hub designed for modern developers. Instead of maintaining static personal websites, ResuMesh continuously syncs your digital footprint from GitHub, Medium, and Dev.to into a single, unified database.
 - [resumesh-scrapers](https://github.com/AtaCanYmc/resumesh-scrapers) — Standalone, reusable web scraping services for GitHub, Dev.to, and Medium.
 - [reactive-resume-api-client-py](https://github.com/AtaCanYmc/reactive-resume-api-client-py) — An unofficial modern, type-safe Python API Client (SDK) for Reactive Resume v4.
-- [SentinelCell-MAS-Immune-System](https://github.com/AtaCanYmc/SentinelCell-MAS-Immune-System) — SentinelCell is an intelligent middleware—an "Immune System"—for MAS. It intercepts inter-agent traffic in real-time without introducing latency, validates the data against a centralized SchemaRegistry (powered by MCP), and automatically repairs any malformed JSON payloads using LLM inference (Self-Healing).
 <!-- END_LATEST_PROJECTS -->
 
 ---
