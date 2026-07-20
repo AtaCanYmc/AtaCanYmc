@@ -104,10 +104,10 @@ My philosophy is simple: **Clean code, minimalist design, and scalable architect
 
 <!-- START_LATEST_PROJECTS -->
 - [IstakaUstasi](https://github.com/AtaCanYmc/IstakaUstasi) — Istaka Ustası is a full-stack Okey board solver and computer vision application. It helps players scan their physical Okey rack using a camera or select tiles manually, and employs optimization engines to solve the tiles into optimal melds (Runs, Groups, and Doubles) for Okey and 101 Okey games.
+- [ApexRestpy](https://github.com/AtaCanYmc/ApexRestpy) — ApexRestpy is a lightweight Python library designed to seamlessly interact with Oracle APEX RESTful services. It is the Python adaptation of the ApexBridge C++ Arduino library, bringing the same simple and clean API to standard Python environments.
+- [LogShifter](https://github.com/AtaCanYmc/LogShifter) — LogShift is a developer-friendly Python SDK and CLI built to extract log records from databases and ship/archive them asynchronously to multiple notification and storage destinations.
 - [okey-solver-py](https://github.com/AtaCanYmc/okey-solver-py) — Python library for solving Okey & Rummikub tile arrangements and processing board layouts.
 - [ResuMesh](https://github.com/AtaCanYmc/ResuMesh) — ResuMesh is a self-hosted, dynamic portfolio hub designed for modern developers. Instead of maintaining static personal websites, ResuMesh continuously syncs your digital footprint from GitHub, Medium, and Dev.to into a single, unified database.
-- [resumesh-scrapers](https://github.com/AtaCanYmc/resumesh-scrapers) — Standalone, reusable web scraping services for GitHub, Dev.to, and Medium.
-- [reactive-resume-api-client-py](https://github.com/AtaCanYmc/reactive-resume-api-client-py) — An unofficial modern, type-safe Python API Client (SDK) for Reactive Resume v4.
 <!-- END_LATEST_PROJECTS -->
 
 ---
