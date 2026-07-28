@@ -103,11 +103,11 @@ My philosophy is simple: **Clean code, minimalist design, and scalable architect
 > **Note:** The list below is dynamically updated via a custom GitHub Actions automation (`update_latest_projects.py`). It fetches my most recent and active repositories to keep this portfolio fresh!
 
 <!-- START_LATEST_PROJECTS -->
+- [resumesh-llm](https://github.com/AtaCanYmc/resumesh-llm) — A professional-grade, lightweight, and production-ready Python library powering the intelligent LLM features of the ResuMesh CV and portfolio builder.
+- [resumesh-scrapers](https://github.com/AtaCanYmc/resumesh-scrapers) — resumesh-scrapers is a clean, modular, and robust Python library containing standalone scraping services for GitHub, Dev.to, Medium, Substack, Behance, NPM, and PyPI platforms.
 - [ForexFactoryScrapper](https://github.com/AtaCanYmc/ForexFactoryScrapper) — ForexFactoryScrapper is a Python-based web scraping tool designed to extract financial event data from the ForexFactory website. This project provides a simple and effective way to scrape calendar events, forecast data, actual values, and other relevant information for forex trading analysis.
-- [resumesh-llm](https://github.com/AtaCanYmc/resumesh-llm) — A lightweight, production-ready Python library implementing the LLM integration features for the ResuMesh CV and portfolio builder. Designed following KISS (Keep It Simple, Stupid) and SOLID principles, resumesh-llm provides robust, schema-validated, and providers-agnostic abstractions to summarize projects and optimize resumes.
 - [ApexRestpy](https://github.com/AtaCanYmc/ApexRestpy) — ApexRestpy is a lightweight Python library designed to seamlessly interact with Oracle APEX RESTful services. It is the Python adaptation of the ApexBridge C++ Arduino library, bringing the same simple and clean API to standard Python environments.
 - [ResuMesh](https://github.com/AtaCanYmc/ResuMesh) — ResuMesh is a self-hosted, dynamic portfolio hub designed for modern developers. Instead of maintaining static personal websites, ResuMesh continuously syncs your digital footprint from GitHub, Medium, and Dev.to into a single, unified database.
-- [resumesh-scrapers](https://github.com/AtaCanYmc/resumesh-scrapers) — resumesh-scrapers is a clean, modular, and robust Python library containing standalone scraping services for GitHub, Dev.to, Medium, Substack, Behance, NPM, and PyPI platforms.
 <!-- END_LATEST_PROJECTS -->
 
 ---
