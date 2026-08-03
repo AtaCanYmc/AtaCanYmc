@@ -103,11 +103,11 @@ My philosophy is simple: **Clean code, minimalist design, and scalable architect
 > **Note:** The list below is dynamically updated via a custom GitHub Actions automation (`update_latest_projects.py`). It fetches my most recent and active repositories to keep this portfolio fresh!
 
 <!-- START_LATEST_PROJECTS -->
+- [prompts-and-skills](https://github.com/AtaCanYmc/prompts-and-skills) — A production-grade, structured repository dedicated to high-level AI System Prompts, Agentic Skills, Security Audit Frameworks, and Architectural Guidelines for modern Large Language Models (LLMs) and Autonomous AI Agents.
 - [resumesh-scrapers](https://github.com/AtaCanYmc/resumesh-scrapers) — resumesh-scrapers is a clean, modular, and robust Python library containing standalone scraping services for GitHub, Dev.to, Medium, Substack, Behance, NPM, and PyPI platforms.
 - [robo-market-search](https://github.com/AtaCanYmc/robo-market-search) — Türkiye'nin en popüler 4 elektronik ve robotik pazarında (Robolink, Robotistan, Robo90, Direnç.net) tek satır kodla, çok hızlı ve eşzamanlı arama yapmanızı sağlayan Python istemci kütüphanesi.
 - [ResuMesh](https://github.com/AtaCanYmc/ResuMesh) — ResuMesh is a self-hosted, dynamic portfolio hub designed for modern developers. Instead of maintaining static personal websites, ResuMesh continuously syncs your digital footprint from GitHub, Medium, and Dev.to into a single, unified database.
 - [ApexRestpy](https://github.com/AtaCanYmc/ApexRestpy) — ApexRestpy is a lightweight Python library designed to seamlessly interact with Oracle APEX RESTful services. It is the Python adaptation of the ApexBridge C++ Arduino library, bringing the same simple and clean API to standard Python environments.
-- [resumesh-llm](https://github.com/AtaCanYmc/resumesh-llm) — A professional-grade, lightweight, and production-ready Python library powering the intelligent LLM features of the ResuMesh CV and portfolio builder.
 <!-- END_LATEST_PROJECTS -->
 
 ---
