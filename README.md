@@ -45,14 +45,14 @@ My technical focus bridges high-level web & cloud architectures with **AI Agent 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/demo/preview.php?user=AtaCanYmc&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=AtaCanYmc&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AtaCanYmc&show_icons=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=94A3B8" alt="Ata Can's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtaCanYmc&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=94A3B8" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AtaCanYmc&show_icons=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=94A3B8" alt="Ata Can's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AtaCanYmc&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=94A3B8" alt="Top Languages" width="48%" />
 </div>
 
 ---
@@ -190,6 +190,11 @@ My technical focus bridges high-level web & cloud architectures with **AI Agent 
 - [robo-market-search](https://github.com/AtaCanYmc/robo-market-search) — Türkiye'nin en popüler 4 elektronik ve robotik pazarında (Robolink, Robotistan, Robo90, Direnç.net) tek satır kodla, çok hızlı ve eşzamanlı arama yapmanızı sağlayan Python istemci kütüphanesi.
 - [ResuMesh](https://github.com/AtaCanYmc/ResuMesh) — ResuMesh is a self-hosted, dynamic portfolio hub designed for modern developers. Instead of maintaining static personal websites, ResuMesh continuously syncs your digital footprint from GitHub, Medium, and Dev.to into a single, unified database.
 - [ApexRestpy](https://github.com/AtaCanYmc/ApexRestpy) — ApexRestpy is a lightweight Python library designed to seamlessly interact with Oracle APEX RESTful services. It is the Python adaptation of the ApexBridge C++ Arduino library, bringing the same simple and clean API to standard Python environments.
+- [resumesh-llm](https://github.com/AtaCanYmc/resumesh-llm) — A professional-grade, lightweight, and production-ready Python library powering the intelligent LLM features of the ResuMesh CV and portfolio builder.
+- [ForexFactoryScrapper](https://github.com/AtaCanYmc/ForexFactoryScrapper) — ForexFactoryScrapper is a Python-based web scraping tool designed to extract financial event data from the ForexFactory website. This project provides a simple and effective way to scrape calendar events, forecast data, actual values, and other relevant information for forex trading analysis.
+- [playstation-market-search](https://github.com/AtaCanYmc/playstation-market-search) — PSN network search api for price of the games
+- [IstakaUstasi](https://github.com/AtaCanYmc/IstakaUstasi) — Istaka Ustası is a full-stack Okey board solver and computer vision application. It helps players scan their physical Okey rack using a camera or select tiles manually, and employs optimization engines to solve the tiles into optimal melds (Runs, Groups, and Doubles) for Okey and 101 Okey games.
+- [okey-solver-py](https://github.com/AtaCanYmc/okey-solver-py) — Python library for solving Okey & Rummikub tile arrangements and processing board layouts.
 <!-- END_LATEST_PROJECTS -->
 
 ---

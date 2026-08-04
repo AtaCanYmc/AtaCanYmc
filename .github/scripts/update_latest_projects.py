@@ -22,9 +22,9 @@ def get_owner():
     return os.environ.get('REPO_OWNER') or 'AtaCanYmc'
 
 
-def fetch_repos(owner, per_page=6, token=None):
+def fetch_repos(owner, count=10, token=None):
     url = f'https://api.github.com/users/{owner}/repos'
-    params = {'per_page': per_page, 'sort': 'updated', 'type': 'owner'}
+    params = {'per_page': 100, 'sort': 'updated', 'type': 'owner'}
     headers = {'Accept': 'application/vnd.github.v3+json'}
 
     if token:
@@ -45,7 +45,7 @@ def fetch_repos(owner, per_page=6, token=None):
         if not is_fork and not is_archived and not is_profile_readme:
             filtered_items.append(it)
 
-    return filtered_items[:per_page]
+    return filtered_items[:count]
 
 
 def format_markdown_list(repos):
@@ -99,11 +99,11 @@ def git_commit_push():
 
 def main():
     owner = get_owner()
-    per_page = int(os.environ.get('NUM_PROJECTS', '6'))
+    count = int(os.environ.get('NUM_PROJECTS', '10'))
     token = os.environ.get('GITHUB_TOKEN')
 
     print(f'Fetching latest repos for owner: {owner}')
-    repos = fetch_repos(owner, per_page=per_page, token=token)
+    repos = fetch_repos(owner, count=count, token=token)
     if not repos:
         print('No repositories found (after filtering).')
         sys.exit(0)
