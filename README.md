@@ -185,6 +185,7 @@ My technical focus bridges high-level web & cloud architectures with **AI Agent 
 > **Note:** The list below is dynamically updated via a custom GitHub Actions automation (`update_latest_projects.py`). It fetches my most recent and active repositories to keep this portfolio fresh!
 
 <!-- START_LATEST_PROJECTS -->
+- [ApexBridge](https://github.com/AtaCanYmc/ApexBridge) — ApexBridge is a lightweight and efficient library designed for ESP8266 and ESP32 devices to seamlessly interact with Oracle APEX RESTful services. It simplifies sending authenticated HTTP requests and managing API endpoints securely.
 - [prompts-and-skills](https://github.com/AtaCanYmc/prompts-and-skills) — A production-grade, structured repository dedicated to high-level AI System Prompts, Agentic Skills, Security Audit Frameworks, and Architectural Guidelines for modern Large Language Models (LLMs) and Autonomous AI Agents.
 - [resumesh-scrapers](https://github.com/AtaCanYmc/resumesh-scrapers) — resumesh-scrapers is a clean, modular, and robust Python library containing standalone scraping services for GitHub, Dev.to, Medium, Substack, Behance, NPM, and PyPI platforms.
 - [robo-market-search](https://github.com/AtaCanYmc/robo-market-search) — Türkiye'nin en popüler 4 elektronik ve robotik pazarında (Robolink, Robotistan, Robo90, Direnç.net) tek satır kodla, çok hızlı ve eşzamanlı arama yapmanızı sağlayan Python istemci kütüphanesi.
@@ -194,7 +195,6 @@ My technical focus bridges high-level web & cloud architectures with **AI Agent 
 - [ForexFactoryScrapper](https://github.com/AtaCanYmc/ForexFactoryScrapper) — ForexFactoryScrapper is a Python-based web scraping tool designed to extract financial event data from the ForexFactory website. This project provides a simple and effective way to scrape calendar events, forecast data, actual values, and other relevant information for forex trading analysis.
 - [playstation-market-search](https://github.com/AtaCanYmc/playstation-market-search) — PSN network search api for price of the games
 - [IstakaUstasi](https://github.com/AtaCanYmc/IstakaUstasi) — Istaka Ustası is a full-stack Okey board solver and computer vision application. It helps players scan their physical Okey rack using a camera or select tiles manually, and employs optimization engines to solve the tiles into optimal melds (Runs, Groups, and Doubles) for Okey and 101 Okey games.
-- [okey-solver-py](https://github.com/AtaCanYmc/okey-solver-py) — Python library for solving Okey & Rummikub tile arrangements and processing board layouts.
 <!-- END_LATEST_PROJECTS -->
 
 ---
