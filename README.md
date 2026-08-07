@@ -185,6 +185,8 @@ My technical focus bridges high-level web & cloud architectures with **AI Agent 
 > **Note:** The list below is dynamically updated via a custom GitHub Actions automation (`update_latest_projects.py`). It fetches my most recent and active repositories to keep this portfolio fresh!
 
 <!-- START_LATEST_PROJECTS -->
+- [RubberOtterWeb](https://github.com/AtaCanYmc/RubberOtterWeb) — A modern, responsive Progressive Web Application (PWA) built with Vite, React, TypeScript, and Tailwind CSS that connects to an HM-10 BLE module over the Web Bluetooth API.
+- [RubberOtter](https://github.com/AtaCanYmc/RubberOtter) — Rubber Otter runs on an ATmega32U4-based microcontroller (Arduino Leonardo or Pro Micro are supported). The firmware listens on a serial Stream (by default Serial1 — hardware UART connected to an HM-10 BLE module). Each incoming framed packet is parsed by the Packet Parser module and passed to the Command Executor.
 - [ApexBridge](https://github.com/AtaCanYmc/ApexBridge) — ApexBridge is a lightweight and efficient library designed for ESP8266 and ESP32 devices to seamlessly interact with Oracle APEX RESTful services. It simplifies sending authenticated HTTP requests and managing API endpoints securely.
 - [prompts-and-skills](https://github.com/AtaCanYmc/prompts-and-skills) — A production-grade, structured repository dedicated to high-level AI System Prompts, Agentic Skills, Security Audit Frameworks, and Architectural Guidelines for modern Large Language Models (LLMs) and Autonomous AI Agents.
 - [resumesh-scrapers](https://github.com/AtaCanYmc/resumesh-scrapers) — resumesh-scrapers is a clean, modular, and robust Python library containing standalone scraping services for GitHub, Dev.to, Medium, Substack, Behance, NPM, and PyPI platforms.
@@ -193,8 +195,6 @@ My technical focus bridges high-level web & cloud architectures with **AI Agent 
 - [ApexRestpy](https://github.com/AtaCanYmc/ApexRestpy) — ApexRestpy is a lightweight Python library designed to seamlessly interact with Oracle APEX RESTful services. It is the Python adaptation of the ApexBridge C++ Arduino library, bringing the same simple and clean API to standard Python environments.
 - [resumesh-llm](https://github.com/AtaCanYmc/resumesh-llm) — A professional-grade, lightweight, and production-ready Python library powering the intelligent LLM features of the ResuMesh CV and portfolio builder.
 - [ForexFactoryScrapper](https://github.com/AtaCanYmc/ForexFactoryScrapper) — ForexFactoryScrapper is a Python-based web scraping tool designed to extract financial event data from the ForexFactory website. This project provides a simple and effective way to scrape calendar events, forecast data, actual values, and other relevant information for forex trading analysis.
-- [playstation-market-search](https://github.com/AtaCanYmc/playstation-market-search) — PSN network search api for price of the games
-- [IstakaUstasi](https://github.com/AtaCanYmc/IstakaUstasi) — Istaka Ustası is a full-stack Okey board solver and computer vision application. It helps players scan their physical Okey rack using a camera or select tiles manually, and employs optimization engines to solve the tiles into optimal melds (Runs, Groups, and Doubles) for Okey and 101 Okey games.
 <!-- END_LATEST_PROJECTS -->
 
 ---
