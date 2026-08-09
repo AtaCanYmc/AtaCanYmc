@@ -185,6 +185,7 @@ My technical focus bridges high-level web & cloud architectures with **AI Agent 
 > **Note:** The list below is dynamically updated via a custom GitHub Actions automation (`update_latest_projects.py`). It fetches my most recent and active repositories to keep this portfolio fresh!
 
 <!-- START_LATEST_PROJECTS -->
+- [WhoDisGit](https://github.com/AtaCanYmc/WhoDisGit) — GitHub unfollowers detector and profile analytics dashboard built with React, TypeScript, and Tailwind CSS
 - [RubberOtterWeb](https://github.com/AtaCanYmc/RubberOtterWeb) — A modern, responsive Progressive Web Application (PWA) built with Vite, React, TypeScript, and Tailwind CSS that connects to an HM-10 BLE module over the Web Bluetooth API.
 - [RubberOtter](https://github.com/AtaCanYmc/RubberOtter) — Rubber Otter runs on an ATmega32U4-based microcontroller (Arduino Leonardo or Pro Micro are supported). The firmware listens on a serial Stream (by default Serial1 — hardware UART connected to an HM-10 BLE module). Each incoming framed packet is parsed by the Packet Parser module and passed to the Command Executor.
 - [ApexBridge](https://github.com/AtaCanYmc/ApexBridge) — ApexBridge is a lightweight and efficient library designed for ESP8266 and ESP32 devices to seamlessly interact with Oracle APEX RESTful services. It simplifies sending authenticated HTTP requests and managing API endpoints securely.
@@ -194,7 +195,6 @@ My technical focus bridges high-level web & cloud architectures with **AI Agent 
 - [ResuMesh](https://github.com/AtaCanYmc/ResuMesh) — ResuMesh is a self-hosted, dynamic portfolio hub designed for modern developers. Instead of maintaining static personal websites, ResuMesh continuously syncs your digital footprint from GitHub, Medium, and Dev.to into a single, unified database.
 - [ApexRestpy](https://github.com/AtaCanYmc/ApexRestpy) — ApexRestpy is a lightweight Python library designed to seamlessly interact with Oracle APEX RESTful services. It is the Python adaptation of the ApexBridge C++ Arduino library, bringing the same simple and clean API to standard Python environments.
 - [resumesh-llm](https://github.com/AtaCanYmc/resumesh-llm) — A professional-grade, lightweight, and production-ready Python library powering the intelligent LLM features of the ResuMesh CV and portfolio builder.
-- [ForexFactoryScrapper](https://github.com/AtaCanYmc/ForexFactoryScrapper) — ForexFactoryScrapper is a Python-based web scraping tool designed to extract financial event data from the ForexFactory website. This project provides a simple and effective way to scrape calendar events, forecast data, actual values, and other relevant information for forex trading analysis.
 <!-- END_LATEST_PROJECTS -->
 
 ---
