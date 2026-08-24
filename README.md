@@ -185,6 +185,7 @@ My technical focus bridges high-level web & cloud architectures with **AI Agent 
 > **Note:** The list below is dynamically updated via a custom GitHub Actions automation (`update_latest_projects.py`). It fetches my most recent and active repositories to keep this portfolio fresh!
 
 <!-- START_LATEST_PROJECTS -->
+- [ResumeshClient](https://github.com/AtaCanYmc/ResumeshClient) — This repository contains the standalone ResuMesh Client application, housing both the visitor-facing web interface and the public REST API service
 - [WhoDisGit](https://github.com/AtaCanYmc/WhoDisGit) — GitHub unfollowers detector and profile analytics dashboard built with React, TypeScript, and Tailwind CSS
 - [RubberOtter](https://github.com/AtaCanYmc/RubberOtter) — Rubber Otter runs on an ATmega32U4-based microcontroller (Arduino Leonardo or Pro Micro are supported). The firmware listens on a serial Stream (by default Serial1 — hardware UART connected to an HM-10 BLE module). Each incoming framed packet is parsed by the Packet Parser module and passed to the Command Executor.
 - [hesapli-izin](https://github.com/AtaCanYmc/hesapli-izin) — Hesaplı İzin, Türkiye'de çalışanlar için geliştirilmiş, resmî tatilleri, dinî bayramları (Arefeler dahil) ve hafta sonlarını yıllık izinlerle akıllıca birleştirerek minimum izin günü harcayarak maksimum kesintisiz tatil elde etmeyi sağlayan, %100 çevrimdışı çalışan bir Progressive Web App (PWA) uygulamasıdır.
@@ -194,7 +195,6 @@ My technical focus bridges high-level web & cloud architectures with **AI Agent 
 - [RubberOtterPy](https://github.com/AtaCanYmc/RubberOtterPy) — RubberOtterPy is a modular, production-grade Python package that provides an inline Python SDK, a feature-rich CLI tool, and an embedded Single Page Web Dashboard (OtterDeck) for discovering, controlling, and managing Rubber Otter microcontrollers (SparkFun Pro Micro / Arduino Leonardo) over USB CDC Serial and Bluetooth LE (BLE HM-10 / BT05).
 - [ApexBridge](https://github.com/AtaCanYmc/ApexBridge) — ApexBridge is a lightweight and efficient library designed for ESP8266 and ESP32 devices to seamlessly interact with Oracle APEX RESTful services. It simplifies sending authenticated HTTP requests and managing API endpoints securely.
 - [prompts-and-skills](https://github.com/AtaCanYmc/prompts-and-skills) — A production-grade, structured repository dedicated to high-level AI System Prompts, Agentic Skills, Security Audit Frameworks, and Architectural Guidelines for modern Large Language Models (LLMs) and Autonomous AI Agents.
-- [resumesh-scrapers](https://github.com/AtaCanYmc/resumesh-scrapers) — resumesh-scrapers is a clean, modular, and robust Python library containing standalone scraping services for GitHub, Dev.to, Medium, Substack, Behance, NPM, and PyPI platforms.
 <!-- END_LATEST_PROJECTS -->
 
 ---
