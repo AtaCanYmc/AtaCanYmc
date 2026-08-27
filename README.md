@@ -185,16 +185,16 @@ My technical focus bridges high-level web & cloud architectures with **AI Agent 
 > **Note:** The list below is dynamically updated via a custom GitHub Actions automation (`update_latest_projects.py`). It fetches my most recent and active repositories to keep this portfolio fresh!
 
 <!-- START_LATEST_PROJECTS -->
+- [pocket-werewolf](https://github.com/AtaCanYmc/pocket-werewolf) — A modern, serverless (BaaS), real-time synchronized, and PWA-enabled Werewolf / Mafia web game built with React, TypeScript, Tailwind CSS, and Supabase.
+- [who-is-that-pykemon](https://github.com/AtaCanYmc/who-is-that-pykemon) — Transform your portrait photos into nostalgic, authentic "Who's that Pokémon?" reveal meme videos using AI background removal and video synthesis!
+- [GitRadar](https://github.com/AtaCanYmc/GitRadar) — GitRadar is an open-source Command Line Interface (CLI) tool designed for software developers, founders, and open-source creators.
+- [PixelSprint](https://github.com/AtaCanYmc/PixelSprint) — PixelSprint is a nostalgic, full-featured retrospective application designed for software development teams conducting Sprint End Retrospectives (Retro). It combines the iconic 90s Windows 95 desktop experience and classic matrix-style green-on-black terminal aesthetics with modern web engineering standards
 - [ResumeshAdmin](https://github.com/AtaCanYmc/ResumeshAdmin) — This directory houses the administrative applications of ResuMesh, an open-source intelligent portfolio and CV management system. The administrative functionalities are completely isolated from the visitor-facing client to optimize security, resource management, and deployment flexibility.
 - [reactive-resume-api-client-py](https://github.com/AtaCanYmc/reactive-resume-api-client-py) — An unofficial modern, type-safe Python API Client (SDK) for Reactive Resume v4.
 - [ResumeshClient](https://github.com/AtaCanYmc/ResumeshClient) — This repository contains the standalone ResuMesh Client application, housing both the visitor-facing web interface and the public REST API service
-- [GitRadar](https://github.com/AtaCanYmc/GitRadar) — GitRadar is an open-source Command Line Interface (CLI) tool designed for software developers, founders, and open-source creators.
 - [home-lite-llm](https://github.com/AtaCanYmc/home-lite-llm) — This repository is configured to run a centralized LiteLLM proxy server using Docker Compose for local network and external access.
 - [robo-market-search](https://github.com/AtaCanYmc/robo-market-search) — Türkiye'nin en popüler 4 elektronik ve robotik pazarında (Robolink, Robotistan, Robo90, Direnç.net) tek satır kodla, çok hızlı ve eşzamanlı arama yapmanızı sağlayan Python istemci kütüphanesi.
-- [PixelSprint](https://github.com/AtaCanYmc/PixelSprint) — PixelSprint is a nostalgic, full-featured retrospective application designed for software development teams conducting Sprint End Retrospectives (Retro). It combines the iconic 90s Windows 95 desktop experience and classic matrix-style green-on-black terminal aesthetics with modern web engineering standards
 - [okey-solver-py](https://github.com/AtaCanYmc/okey-solver-py) — Python library for solving Okey & Rummikub tile arrangements and processing board layouts.
-- [WhoDisGit](https://github.com/AtaCanYmc/WhoDisGit) — GitHub unfollowers detector and profile analytics dashboard built with React, TypeScript, and Tailwind CSS
-- [RubberOtter](https://github.com/AtaCanYmc/RubberOtter) — Rubber Otter runs on an ATmega32U4-based microcontroller (Arduino Leonardo or Pro Micro are supported). The firmware listens on a serial Stream (by default Serial1 — hardware UART connected to an HM-10 BLE module). Each incoming framed packet is parsed by the Packet Parser module and passed to the Command Executor.
 <!-- END_LATEST_PROJECTS -->
 
 ---
