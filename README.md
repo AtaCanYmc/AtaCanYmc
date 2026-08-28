@@ -185,7 +185,7 @@ My technical focus bridges high-level web & cloud architectures with **AI Agent 
 > **Note:** The list below is dynamically updated via a custom GitHub Actions automation (`update_latest_projects.py`). It fetches my most recent and active repositories to keep this portfolio fresh!
 
 <!-- START_LATEST_PROJECTS -->
-- [pocket-werewolf](https://github.com/AtaCanYmc/pocket-werewolf) — A modern, serverless (BaaS), real-time synchronized, and PWA-enabled Werewolf / Mafia web game built with React, TypeScript, Tailwind CSS, and Supabase.
+- [pocket-werewolf](https://github.com/AtaCanYmc/pocket-werewolf) — Pocket Werewolf is a reimagined, serverless adaptation of the classic social deduction game Werewolf (Mafia).
 - [who-is-that-pykemon](https://github.com/AtaCanYmc/who-is-that-pykemon) — Transform your portrait photos into nostalgic, authentic "Who's that Pokémon?" reveal meme videos using AI background removal and video synthesis!
 - [GitRadar](https://github.com/AtaCanYmc/GitRadar) — GitRadar is an open-source Command Line Interface (CLI) tool designed for software developers, founders, and open-source creators.
 - [PixelSprint](https://github.com/AtaCanYmc/PixelSprint) — PixelSprint is a nostalgic, full-featured retrospective application designed for software development teams conducting Sprint End Retrospectives (Retro). It combines the iconic 90s Windows 95 desktop experience and classic matrix-style green-on-black terminal aesthetics with modern web engineering standards
