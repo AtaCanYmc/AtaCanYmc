@@ -185,6 +185,8 @@ My technical focus bridges high-level web & cloud architectures with **AI Agent 
 > **Note:** The list below is dynamically updated via a custom GitHub Actions automation (`update_latest_projects.py`). It fetches my most recent and active repositories to keep this portfolio fresh!
 
 <!-- START_LATEST_PROJECTS -->
+- [resumesh-scrapers](https://github.com/AtaCanYmc/resumesh-scrapers) — resumesh-scrapers is a clean, modular, and robust Python library containing standalone scraping services for GitHub, Dev.to, Medium, Substack, Behance, NPM, and PyPI platforms.
+- [vitralis](https://github.com/AtaCanYmc/vitralis) — Comprehensive Cost Accounting, Quotation Generator, and Progressive Web App for Stained Glass Artisans and Tiffany Technique Workshops.
 - [home-lite-llm](https://github.com/AtaCanYmc/home-lite-llm) — This repository is configured to run a centralized LiteLLM proxy server using Docker Compose for local network and external access.
 - [okey-solver-py](https://github.com/AtaCanYmc/okey-solver-py) — Python library for solving Okey & Rummikub tile arrangements and processing board layouts.
 - [layer-cost](https://github.com/AtaCanYmc/layer-cost) — LayerCost is a modern, offline-first Progressive Web App built for makers, 3D printing hobbyists, and print farm businesses. It computes precise material, electricity, depreciation, labor, failure risk, and profit margins with instant real-time feedback and a delightful, tactile Claymorphism user experience.
@@ -193,8 +195,6 @@ My technical focus bridges high-level web & cloud architectures with **AI Agent 
 - [pocket-werewolf](https://github.com/AtaCanYmc/pocket-werewolf) — Pocket Werewolf is a reimagined, serverless adaptation of the classic social deduction game Werewolf (Mafia).
 - [PixelSprint](https://github.com/AtaCanYmc/PixelSprint) — PixelSprint is a nostalgic, full-featured retrospective application designed for software development teams conducting Sprint End Retrospectives (Retro). It combines the iconic 90s Windows 95 desktop experience and classic matrix-style green-on-black terminal aesthetics with modern web engineering standards
 - [who-is-that-pykemon](https://github.com/AtaCanYmc/who-is-that-pykemon) — Transform your portrait photos into nostalgic, authentic "Who's that Pokémon?" reveal meme videos using AI background removal and video synthesis!
-- [GitRadar](https://github.com/AtaCanYmc/GitRadar) — GitRadar is an open-source Command Line Interface (CLI) tool designed for software developers, founders, and open-source creators.
-- [ResumeshAdmin](https://github.com/AtaCanYmc/ResumeshAdmin) — This directory houses the administrative applications of ResuMesh, an open-source intelligent portfolio and CV management system. The administrative functionalities are completely isolated from the visitor-facing client to optimize security, resource management, and deployment flexibility.
 <!-- END_LATEST_PROJECTS -->
 
 ---
