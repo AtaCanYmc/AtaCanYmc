@@ -185,6 +185,8 @@ My technical focus bridges high-level web & cloud architectures with **AI Agent 
 > **Note:** The list below is dynamically updated via a custom GitHub Actions automation (`update_latest_projects.py`). It fetches my most recent and active repositories to keep this portfolio fresh!
 
 <!-- START_LATEST_PROJECTS -->
+- [RubberOtter](https://github.com/AtaCanYmc/RubberOtter) — Rubber Otter runs on an ATmega32U4-based microcontroller (Arduino Leonardo or Pro Micro are supported). The firmware listens on a serial Stream (by default Serial1 — hardware UART connected to an HM-10 BLE module). Each incoming framed packet is parsed by the Packet Parser module and passed to the Command Executor.
+- [ForexFactoryScrapperChat](https://github.com/AtaCanYmc/ForexFactoryScrapperChat) — AI-powered conversational assistant and economic event analyzer. This system combines real-time data scraping pipelines (covering forex, cryptocurrencies, metals, and energy) with state-of-the-art Large Language Models
 - [resumesh-scrapers](https://github.com/AtaCanYmc/resumesh-scrapers) — resumesh-scrapers is a clean, modular, and robust Python library containing standalone scraping services for GitHub, Dev.to, Medium, Substack, Behance, NPM, and PyPI platforms.
 - [vitralis](https://github.com/AtaCanYmc/vitralis) — Comprehensive Cost Accounting, Quotation Generator, and Progressive Web App for Stained Glass Artisans and Tiffany Technique Workshops.
 - [home-lite-llm](https://github.com/AtaCanYmc/home-lite-llm) — This repository is configured to run a centralized LiteLLM proxy server using Docker Compose for local network and external access.
@@ -193,8 +195,6 @@ My technical focus bridges high-level web & cloud architectures with **AI Agent 
 - [robo-market-search](https://github.com/AtaCanYmc/robo-market-search) — Türkiye'nin en popüler 4 elektronik ve robotik pazarında (Robolink, Robotistan, Robo90, Direnç.net) tek satır kodla, çok hızlı ve eşzamanlı arama yapmanızı sağlayan Python istemci kütüphanesi.
 - [reactive-resume-api-client-py](https://github.com/AtaCanYmc/reactive-resume-api-client-py) — An unofficial modern, type-safe Python API Client (SDK) for Reactive Resume v4.
 - [pocket-werewolf](https://github.com/AtaCanYmc/pocket-werewolf) — Pocket Werewolf is a reimagined, serverless adaptation of the classic social deduction game Werewolf (Mafia).
-- [PixelSprint](https://github.com/AtaCanYmc/PixelSprint) — PixelSprint is a nostalgic, full-featured retrospective application designed for software development teams conducting Sprint End Retrospectives (Retro). It combines the iconic 90s Windows 95 desktop experience and classic matrix-style green-on-black terminal aesthetics with modern web engineering standards
-- [who-is-that-pykemon](https://github.com/AtaCanYmc/who-is-that-pykemon) — Transform your portrait photos into nostalgic, authentic "Who's that Pokémon?" reveal meme videos using AI background removal and video synthesis!
 <!-- END_LATEST_PROJECTS -->
 
 ---
