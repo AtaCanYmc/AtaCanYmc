@@ -185,6 +185,7 @@ My technical focus bridges high-level web & cloud architectures with **AI Agent 
 > **Note:** The list below is dynamically updated via a custom GitHub Actions automation (`update_latest_projects.py`). It fetches my most recent and active repositories to keep this portfolio fresh!
 
 <!-- START_LATEST_PROJECTS -->
+- [esp32-rf-sword](https://github.com/AtaCanYmc/esp32-rf-sword) — ESP32 RF SWORD is an advanced, industrial grade multi-band radio frequency security research, spectrum analysis, and signal transmission framework built for the ESP32 family.
 - [RubberOtter](https://github.com/AtaCanYmc/RubberOtter) — Rubber Otter runs on an ATmega32U4-based microcontroller (Arduino Leonardo or Pro Micro are supported). The firmware listens on a serial Stream (by default Serial1 — hardware UART connected to an HM-10 BLE module). Each incoming framed packet is parsed by the Packet Parser module and passed to the Command Executor.
 - [ForexFactoryScrapperChat](https://github.com/AtaCanYmc/ForexFactoryScrapperChat) — AI-powered conversational assistant and economic event analyzer. This system combines real-time data scraping pipelines (covering forex, cryptocurrencies, metals, and energy) with state-of-the-art Large Language Models
 - [resumesh-scrapers](https://github.com/AtaCanYmc/resumesh-scrapers) — resumesh-scrapers is a clean, modular, and robust Python library containing standalone scraping services for GitHub, Dev.to, Medium, Substack, Behance, NPM, and PyPI platforms.
@@ -194,7 +195,6 @@ My technical focus bridges high-level web & cloud architectures with **AI Agent 
 - [layer-cost](https://github.com/AtaCanYmc/layer-cost) — LayerCost is a modern, offline-first Progressive Web App built for makers, 3D printing hobbyists, and print farm businesses. It computes precise material, electricity, depreciation, labor, failure risk, and profit margins with instant real-time feedback and a delightful, tactile Claymorphism user experience.
 - [robo-market-search](https://github.com/AtaCanYmc/robo-market-search) — Türkiye'nin en popüler 4 elektronik ve robotik pazarında (Robolink, Robotistan, Robo90, Direnç.net) tek satır kodla, çok hızlı ve eşzamanlı arama yapmanızı sağlayan Python istemci kütüphanesi.
 - [reactive-resume-api-client-py](https://github.com/AtaCanYmc/reactive-resume-api-client-py) — An unofficial modern, type-safe Python API Client (SDK) for Reactive Resume v4.
-- [pocket-werewolf](https://github.com/AtaCanYmc/pocket-werewolf) — Pocket Werewolf is a reimagined, serverless adaptation of the classic social deduction game Werewolf (Mafia).
 <!-- END_LATEST_PROJECTS -->
 
 ---
