@@ -185,6 +185,7 @@ My technical focus bridges high-level web & cloud architectures with **AI Agent 
 > **Note:** The list below is dynamically updated via a custom GitHub Actions automation (`update_latest_projects.py`). It fetches my most recent and active repositories to keep this portfolio fresh!
 
 <!-- START_LATEST_PROJECTS -->
+- [ForexFactoryScrapper](https://github.com/AtaCanYmc/ForexFactoryScrapper) — ForexFactoryScrapper is a Python-based web scraping tool designed to extract financial event data from the ForexFactory website. This project provides a simple and effective way to scrape calendar events, forecast data, actual values, and other relevant information for forex trading analysis.
 - [vitralis](https://github.com/AtaCanYmc/vitralis) — Comprehensive Cost Accounting, Quotation Generator, and Progressive Web App for Stained Glass Artisans and Tiffany Technique Workshops.
 - [well-document](https://github.com/AtaCanYmc/well-document) — well-document is an open-source AI agent skill that transforms raw, undocumented codebases into clean, battle-tested open-source repositories.
 - [WhoDisGit](https://github.com/AtaCanYmc/WhoDisGit) — GitHub unfollowers detector and profile analytics dashboard built with React, TypeScript, and Tailwind CSS
@@ -194,7 +195,6 @@ My technical focus bridges high-level web & cloud architectures with **AI Agent 
 - [pocket-werewolf](https://github.com/AtaCanYmc/pocket-werewolf) — Pocket Werewolf is a reimagined, serverless adaptation of the classic social deduction game Werewolf (Mafia).
 - [who-is-that-pykemon](https://github.com/AtaCanYmc/who-is-that-pykemon) — Transform your portrait photos into nostalgic, authentic "Who's that Pokémon?" reveal meme videos using AI background removal and video synthesis!
 - [RubberOtter](https://github.com/AtaCanYmc/RubberOtter) — Rubber Otter runs on an ATmega32U4-based microcontroller (Arduino Leonardo or Pro Micro are supported). The firmware listens on a serial Stream (by default Serial1 — hardware UART connected to an HM-10 BLE module). Each incoming framed packet is parsed by the Packet Parser module and passed to the Command Executor.
-- [layer-cost](https://github.com/AtaCanYmc/layer-cost) — LayerCost is a modern, offline-first Progressive Web App built for makers, 3D printing hobbyists, and print farm businesses. It computes precise material, electricity, depreciation, labor, failure risk, and profit margins with instant real-time feedback and a delightful, tactile Claymorphism user experience.
 <!-- END_LATEST_PROJECTS -->
 
 ---
