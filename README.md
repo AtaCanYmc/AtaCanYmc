@@ -185,9 +185,9 @@ My technical focus bridges high-level web & cloud architectures with **AI Agent 
 > **Note:** The list below is dynamically updated via a custom GitHub Actions automation (`update_latest_projects.py`). It fetches my most recent and active repositories to keep this portfolio fresh!
 
 <!-- START_LATEST_PROJECTS -->
+- [vitralis](https://github.com/AtaCanYmc/vitralis) — Comprehensive Cost Accounting, Quotation Generator, and Progressive Web App for Stained Glass Artisans and Tiffany Technique Workshops.
 - [SmartcaleESP32](https://github.com/AtaCanYmc/SmartcaleESP32) — Non-blocking firmware for ESP32-C3 Super Mini smart kitchen scales with HX711 load cell sensing, SH1106 OLED display, Li-Po battery fuel gauge, and BLE GATT connectivity.
 - [ForexFactoryScrapper](https://github.com/AtaCanYmc/ForexFactoryScrapper) — ForexFactoryScrapper is a Python-based web scraping tool designed to extract financial event data from the ForexFactory website. This project provides a simple and effective way to scrape calendar events, forecast data, actual values, and other relevant information for forex trading analysis.
-- [vitralis](https://github.com/AtaCanYmc/vitralis) — Comprehensive Cost Accounting, Quotation Generator, and Progressive Web App for Stained Glass Artisans and Tiffany Technique Workshops.
 - [forex-pytory](https://github.com/AtaCanYmc/forex-pytory) — Forex-Pytory is an open-source Python package that provides a robust and elegant way to scrape core economic data, news releases, and calendar events from major financial markets. Designed for modern Python ecosystems, it offers seamless integration for automated trading bots, data analysis pipelines, and even AI agents.
 - [who-is-that-pykemon](https://github.com/AtaCanYmc/who-is-that-pykemon) — Transform your portrait photos into nostalgic, authentic "Who's that Pokémon?" reveal meme videos using AI background removal and video synthesis!
 - [reactive-resume-api-client-py](https://github.com/AtaCanYmc/reactive-resume-api-client-py) — An unofficial modern, type-safe Python API Client (SDK) for Reactive Resume v4.
