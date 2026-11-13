@@ -185,6 +185,7 @@ My technical focus bridges high-level web & cloud architectures with **AI Agent 
 > **Note:** The list below is dynamically updated via a custom GitHub Actions automation (`update_latest_projects.py`). It fetches my most recent and active repositories to keep this portfolio fresh!
 
 <!-- START_LATEST_PROJECTS -->
+- [AWS-SAA-C03-Study-Notes](https://github.com/AtaCanYmc/AWS-SAA-C03-Study-Notes) — Structured study repository for the AWS Certified Solutions Architect - Associate (SAA-C03) examination. Contains curated scenario reviews, comprehensive question banks with verified answer keys, and architectural concept callouts formatted in GitHub Flavored Markdown.
 - [layer-cost](https://github.com/AtaCanYmc/layer-cost) — LayerCost is a modern, offline-first Progressive Web App built for makers, 3D printing hobbyists, and print farm businesses. It computes precise material, electricity, depreciation, labor, failure risk, and profit margins with instant real-time feedback and a delightful, tactile Claymorphism user experience.
 - [home-lite-llm](https://github.com/AtaCanYmc/home-lite-llm) — This repository is configured to run a centralized LiteLLM proxy server using Docker Compose for local network and external access.
 - [tr-app-hukuk](https://github.com/AtaCanYmc/tr-app-hukuk) — Türkiye'de yayında olan ya da yayına girecek mobil ve web uygulamalarının kaynak kodlarını Türk tüketici, ticaret, telif, internet yayıncılığı ve kişisel verilerin korunması mevzuatına göre denetleyen açık kaynaklı bir yapay zeka sistem yeteneğidir.
@@ -194,7 +195,6 @@ My technical focus bridges high-level web & cloud architectures with **AI Agent 
 - [ForexFactoryScrapper](https://github.com/AtaCanYmc/ForexFactoryScrapper) — ForexFactoryScrapper is a Python-based web scraping tool designed to extract financial event data from the ForexFactory website. This project provides a simple and effective way to scrape calendar events, forecast data, actual values, and other relevant information for forex trading analysis.
 - [forex-pytory](https://github.com/AtaCanYmc/forex-pytory) — Forex-Pytory is an open-source Python package that provides a robust and elegant way to scrape core economic data, news releases, and calendar events from major financial markets. Designed for modern Python ecosystems, it offers seamless integration for automated trading bots, data analysis pipelines, and even AI agents.
 - [who-is-that-pykemon](https://github.com/AtaCanYmc/who-is-that-pykemon) — Transform your portrait photos into nostalgic, authentic "Who's that Pokémon?" reveal meme videos using AI background removal and video synthesis!
-- [reactive-resume-api-client-py](https://github.com/AtaCanYmc/reactive-resume-api-client-py) — An unofficial modern, type-safe Python API Client (SDK) for Reactive Resume v4.
 <!-- END_LATEST_PROJECTS -->
 
 ---
