@@ -24,9 +24,9 @@
 
 # 🌍 About Me :
 
-I am **Ata Can YAYMACI**, a Full-Stack Software Expert and open-source developer passionate about building robust enterprise systems, autonomous AI agent architectures, and hardware-software integration solutions.
+I am **Ata Can YAYMACI**, a Full-Stack Software Expert and open-source developer specializing in scalable enterprise systems, autonomous AI agent architectures, and hardware-software integration solutions.
 
-My technical focus bridges high-level web & cloud architectures with **AI Agent Systems (LangChain, RAG, Prompt Engineering)** and **IoT ecosystems (ESP32, Microcontrollers, Meshtastic)**. I continuously push technological boundaries by designing modular, clean, and scalable solutions that bridge software and hardware.
+My technical focus bridges distributed web and cloud architectures with **AI Agent Systems (LangChain, RAG, Prompt Engineering)** and **IoT ecosystems (ESP32, Microcontrollers, Meshtastic)**. I design modular, reliable, and maintainable systems that connect software and physical devices.
 
 > 💡 **Engineering Mindset:** *Clean code, minimalist design, and scalable architecture.*
 

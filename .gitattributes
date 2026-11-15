@@ -1,0 +1,17 @@
+# Line ending normalization
+* text=auto eol=lf
+
+# Python scripts
+*.py text eol=lf
+
+# Documentation and configuration
+*.md text diff=markdown
+*.yml text eol=lf
+*.yaml text eol=lf
+*.json text eol=lf
+
+# Binary media assets
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.svg text eol=lf

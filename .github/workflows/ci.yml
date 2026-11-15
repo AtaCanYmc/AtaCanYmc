@@ -1,0 +1,28 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Compile Python Scripts
+        run: |
+          python3 -m py_compile .github/scripts/update_latest_projects.py
+      - name: Verify README Markers
+        run: |
+          python3 -c "
+          content = open('README.md', encoding='utf-8').read()
+          assert '<!-- START_LATEST_PROJECTS -->' in content, 'Missing START marker'
+          assert '<!-- END_LATEST_PROJECTS -->' in content, 'Missing END marker'
+          print('Markers verified successfully.')
+          "

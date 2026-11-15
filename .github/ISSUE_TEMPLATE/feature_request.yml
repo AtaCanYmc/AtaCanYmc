@@ -1,0 +1,19 @@
+name: Feature Request
+description: Propose an enhancement to repository automation
+title: "feat: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem Statement
+      description: Describe the limitation or friction you encountered.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed Solution
+      description: Detail the requested change or new capability.
+    validations:
+      required: true
