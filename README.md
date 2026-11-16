@@ -185,16 +185,16 @@ My technical focus bridges distributed web and cloud architectures with **AI Age
 > **Note:** The list below is dynamically updated via a custom GitHub Actions automation (`update_latest_projects.py`). It fetches my most recent and active repositories to keep this portfolio fresh!
 
 <!-- START_LATEST_PROJECTS -->
+- [RemoteStation](https://github.com/AtaCanYmc/RemoteStation) — Firmware for Arduino Leonardo (ATmega32U4) that decodes 38 kHz infrared remote signals and translates them into USB Human Interface Device (HID) keyboard keystrokes for Sony PlayStation 4 navigation and media playback.
+- [lumina](https://github.com/AtaCanYmc/lumina) — Lumina converts 2D raster images into 3D-printable lithophane STL meshes, Spiral Betty vector patterns, and interactive WebGL physical light simulations.
+- [homebrew-tap](https://github.com/AtaCanYmc/homebrew-tap) — Homebrew Tap for AtaCanYmc
+- [well-document](https://github.com/AtaCanYmc/well-document) — well-document is an open-source AI agent skill that transforms raw, undocumented codebases into clean, battle-tested open-source repositories.
+- [hesapli-izin](https://github.com/AtaCanYmc/hesapli-izin) — Hesaplı İzin, Türkiye'de çalışanlar için geliştirilmiş, resmî tatilleri, dinî bayramları (Arefeler dahil) ve hafta sonlarını yıllık izinlerle akıllıca birleştirerek minimum izin günü harcayarak maksimum kesintisiz tatil elde etmeyi sağlayan, %100 çevrimdışı çalışan bir Progressive Web App (PWA) uygulamasıdır.
 - [AWS-SAA-C03-Study-Notes](https://github.com/AtaCanYmc/AWS-SAA-C03-Study-Notes) — Structured study repository for the AWS Certified Solutions Architect - Associate (SAA-C03) examination. Contains curated scenario reviews, comprehensive question banks with verified answer keys, and architectural concept callouts formatted in GitHub Flavored Markdown.
 - [layer-cost](https://github.com/AtaCanYmc/layer-cost) — LayerCost is a modern, offline-first Progressive Web App built for makers, 3D printing hobbyists, and print farm businesses. It computes precise material, electricity, depreciation, labor, failure risk, and profit margins with instant real-time feedback and a delightful, tactile Claymorphism user experience.
 - [home-lite-llm](https://github.com/AtaCanYmc/home-lite-llm) — This repository is configured to run a centralized LiteLLM proxy server using Docker Compose for local network and external access.
 - [tr-app-hukuk](https://github.com/AtaCanYmc/tr-app-hukuk) — Türkiye'de yayında olan ya da yayına girecek mobil ve web uygulamalarının kaynak kodlarını Türk tüketici, ticaret, telif, internet yayıncılığı ve kişisel verilerin korunması mevzuatına göre denetleyen açık kaynaklı bir yapay zeka sistem yeteneğidir.
-- [well-document](https://github.com/AtaCanYmc/well-document) — well-document is an open-source AI agent skill that transforms raw, undocumented codebases into clean, battle-tested open-source repositories.
 - [vitralis](https://github.com/AtaCanYmc/vitralis) — Comprehensive Cost Accounting, Quotation Generator, and Progressive Web App for Stained Glass Artisans and Tiffany Technique Workshops.
-- [SmartcaleESP32](https://github.com/AtaCanYmc/SmartcaleESP32) — Non-blocking firmware for ESP32-C3 Super Mini smart kitchen scales with HX711 load cell sensing, SH1106 OLED display, Li-Po battery fuel gauge, and BLE GATT connectivity.
-- [ForexFactoryScrapper](https://github.com/AtaCanYmc/ForexFactoryScrapper) — ForexFactoryScrapper is a Python-based web scraping tool designed to extract financial event data from the ForexFactory website. This project provides a simple and effective way to scrape calendar events, forecast data, actual values, and other relevant information for forex trading analysis.
-- [forex-pytory](https://github.com/AtaCanYmc/forex-pytory) — Forex-Pytory is an open-source Python package that provides a robust and elegant way to scrape core economic data, news releases, and calendar events from major financial markets. Designed for modern Python ecosystems, it offers seamless integration for automated trading bots, data analysis pipelines, and even AI agents.
-- [who-is-that-pykemon](https://github.com/AtaCanYmc/who-is-that-pykemon) — Transform your portrait photos into nostalgic, authentic "Who's that Pokémon?" reveal meme videos using AI background removal and video synthesis!
 <!-- END_LATEST_PROJECTS -->
 
 ---
