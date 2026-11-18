@@ -185,6 +185,9 @@ My technical focus bridges distributed web and cloud architectures with **AI Age
 > **Note:** The list below is dynamically updated via a custom GitHub Actions automation (`update_latest_projects.py`). It fetches my most recent and active repositories to keep this portfolio fresh!
 
 <!-- START_LATEST_PROJECTS -->
+- [yargitay-karar-scraper](https://github.com/AtaCanYmc/yargitay-karar-scraper) — Yargıtay Karar Arama portalı için asenkron Python istemcisi, Rich tabanlı CLI arayüzü ve MCP sunucusudur.
+- [forex-pytory](https://github.com/AtaCanYmc/forex-pytory) — A Python library, CLI, and MCP server for extracting structured economic calendar events across Forex, Cryptocurrency, Energy, and Precious Metals markets.
+- [ForexFactoryScrapperChat](https://github.com/AtaCanYmc/ForexFactoryScrapperChat) — AI-powered conversational assistant and economic event analyzer. This system combines real-time data scraping pipelines (covering forex, cryptocurrencies, metals, and energy) with state-of-the-art Large Language Models
 - [robo-market-search](https://github.com/AtaCanYmc/robo-market-search) — Türkiye'nin en popüler elektronik ve robotik pazarlarında tek satır kodla, çok hızlı ve eşzamanlı arama yapmanızı sağlayan Python istemci kütüphanesi.
 - [home-lite-llm](https://github.com/AtaCanYmc/home-lite-llm) — This repository is configured to run a centralized LiteLLM proxy server using Docker Compose for local network and external access.
 - [homebrew-tap](https://github.com/AtaCanYmc/homebrew-tap) — Homebrew Tap for AtaCanYmc
@@ -192,9 +195,6 @@ My technical focus bridges distributed web and cloud architectures with **AI Age
 - [lumina](https://github.com/AtaCanYmc/lumina) — Lumina converts 2D raster images into 3D-printable lithophane STL meshes, Spiral Betty vector patterns, and interactive WebGL physical light simulations.
 - [well-document](https://github.com/AtaCanYmc/well-document) — well-document is an open-source AI agent skill that transforms raw, undocumented codebases into clean, battle-tested open-source repositories.
 - [hesapli-izin](https://github.com/AtaCanYmc/hesapli-izin) — Hesaplı İzin, Türkiye'de çalışanlar için geliştirilmiş, resmî tatilleri, dinî bayramları (Arefeler dahil) ve hafta sonlarını yıllık izinlerle akıllıca birleştirerek minimum izin günü harcayarak maksimum kesintisiz tatil elde etmeyi sağlayan, %100 çevrimdışı çalışan bir Progressive Web App (PWA) uygulamasıdır.
-- [AWS-SAA-C03-Study-Notes](https://github.com/AtaCanYmc/AWS-SAA-C03-Study-Notes) — Structured study repository for the AWS Certified Solutions Architect - Associate (SAA-C03) examination. Contains curated scenario reviews, comprehensive question banks with verified answer keys, and architectural concept callouts formatted in GitHub Flavored Markdown.
-- [layer-cost](https://github.com/AtaCanYmc/layer-cost) — LayerCost is a modern, offline-first Progressive Web App built for makers, 3D printing hobbyists, and print farm businesses. It computes precise material, electricity, depreciation, labor, failure risk, and profit margins with instant real-time feedback and a delightful, tactile Claymorphism user experience.
-- [tr-app-hukuk](https://github.com/AtaCanYmc/tr-app-hukuk) — Türkiye'de yayında olan ya da yayına girecek mobil ve web uygulamalarının kaynak kodlarını Türk tüketici, ticaret, telif, internet yayıncılığı ve kişisel verilerin korunması mevzuatına göre denetleyen açık kaynaklı bir yapay zeka sistem yeteneğidir.
 <!-- END_LATEST_PROJECTS -->
 
 ---
