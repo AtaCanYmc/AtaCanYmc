@@ -185,16 +185,16 @@ My technical focus bridges distributed web and cloud architectures with **AI Age
 > **Note:** The list below is dynamically updated via a custom GitHub Actions automation (`update_latest_projects.py`). It fetches my most recent and active repositories to keep this portfolio fresh!
 
 <!-- START_LATEST_PROJECTS -->
+- [stock-fetcher](https://github.com/AtaCanYmc/stock-fetcher) — Stock Fetcher is a standalone, lightweight Python library for fetching copyright-free images and photos from various popular sources such as Pexels, Pixabay, Unsplash, and Flickr.
+- [who-is-that-pykemon](https://github.com/AtaCanYmc/who-is-that-pykemon) — Transform your portrait photos into nostalgic, authentic "Who's that Pokémon?" reveal meme videos using AI background removal and video synthesis!
+- [reactive-resume-api-client-py](https://github.com/AtaCanYmc/reactive-resume-api-client-py) — An unofficial, type-safe Python SDK client and CLI for Reactive Resume v4.
+- [izbb-acikveri-haritalari](https://github.com/AtaCanYmc/izbb-acikveri-haritalari) — İzmir Açık Veri Haritaları, İzmir Büyükşehir Belediyesi'nin açık veri API'lerini kullanarak, şehrin çeşitli kategorilerindeki önemli yerlerini etkileşimli haritalar üzerinde sunmaktadır.
+- [ToneProject](https://github.com/AtaCanYmc/ToneProject) — Tone is a tactile desktop sound controller that bridges physical haptics with digital audio control. Rather than relying on flat onscreen sliders, Tone translates rotational and tap gestures on an elliptical surface into fluid sound adjustments and real-time optical LED feedback.
+- [resmi-gazete-cli](https://github.com/AtaCanYmc/resmi-gazete-cli) — T.C. Resmi Gazete için Asenkron Python SDK, CLI ve FastMCP Sunucusu
+- [homebrew-tap](https://github.com/AtaCanYmc/homebrew-tap) — Homebrew Tap for AtaCanYmc
+- [tr-app-hukuk](https://github.com/AtaCanYmc/tr-app-hukuk) — Türkiye'de yayında olan ya da yayına girecek mobil ve web uygulamalarının kaynak kodlarını Türk tüketici, ticaret, telif, internet yayıncılığı ve kişisel verilerin korunması mevzuatına göre denetleyen açık kaynaklı bir yapay zeka sistem yeteneğidir.
 - [yargitay-karar-scraper](https://github.com/AtaCanYmc/yargitay-karar-scraper) — Yargıtay Karar Arama portalı için asenkron Python istemcisi, Rich tabanlı CLI arayüzü ve MCP sunucusudur.
 - [forex-pytory](https://github.com/AtaCanYmc/forex-pytory) — A Python library, CLI, and MCP server for extracting structured economic calendar events across Forex, Cryptocurrency, Energy, and Precious Metals markets.
-- [ForexFactoryScrapperChat](https://github.com/AtaCanYmc/ForexFactoryScrapperChat) — AI-powered conversational assistant and economic event analyzer. This system combines real-time data scraping pipelines (covering forex, cryptocurrencies, metals, and energy) with state-of-the-art Large Language Models
-- [robo-market-search](https://github.com/AtaCanYmc/robo-market-search) — Türkiye'nin en popüler elektronik ve robotik pazarlarında tek satır kodla, çok hızlı ve eşzamanlı arama yapmanızı sağlayan Python istemci kütüphanesi.
-- [home-lite-llm](https://github.com/AtaCanYmc/home-lite-llm) — This repository is configured to run a centralized LiteLLM proxy server using Docker Compose for local network and external access.
-- [homebrew-tap](https://github.com/AtaCanYmc/homebrew-tap) — Homebrew Tap for AtaCanYmc
-- [RemoteStation](https://github.com/AtaCanYmc/RemoteStation) — Firmware for Arduino Leonardo (ATmega32U4) that decodes 38 kHz infrared remote signals and translates them into USB Human Interface Device (HID) keyboard keystrokes for Sony PlayStation 4 navigation and media playback.
-- [lumina](https://github.com/AtaCanYmc/lumina) — Lumina converts 2D raster images into 3D-printable lithophane STL meshes, Spiral Betty vector patterns, and interactive WebGL physical light simulations.
-- [well-document](https://github.com/AtaCanYmc/well-document) — well-document is an open-source AI agent skill that transforms raw, undocumented codebases into clean, battle-tested open-source repositories.
-- [hesapli-izin](https://github.com/AtaCanYmc/hesapli-izin) — Hesaplı İzin, Türkiye'de çalışanlar için geliştirilmiş, resmî tatilleri, dinî bayramları (Arefeler dahil) ve hafta sonlarını yıllık izinlerle akıllıca birleştirerek minimum izin günü harcayarak maksimum kesintisiz tatil elde etmeyi sağlayan, %100 çevrimdışı çalışan bir Progressive Web App (PWA) uygulamasıdır.
 <!-- END_LATEST_PROJECTS -->
 
 ---
