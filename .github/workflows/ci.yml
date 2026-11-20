@@ -18,6 +18,11 @@ jobs:
       - name: Compile Python Scripts
         run: |
           python3 -m py_compile .github/scripts/update_latest_projects.py
+      - name: Verify Essential Governance Files
+        run: |
+          for f in README.md LICENSE CONTRIBUTING.md SECURITY.md; do
+            test -f "$f" || (echo "Missing $f" && exit 1)
+          done
       - name: Verify README Markers
         run: |
           python3 -c "
@@ -26,3 +31,33 @@ jobs:
           assert '<!-- END_LATEST_PROJECTS -->' in content, 'Missing END marker'
           print('Markers verified successfully.')
           "
+      - name: Validate Internal Documentation Links
+        run: |
+          python3 -c '
+          import re, glob, os
+
+          def check_file(f):
+              content = open(f, encoding="utf-8").read()
+              content = re.sub(r"```[\s\S]*?```", "", content)
+              content = re.sub(r"`[^`]*`", "", content)
+              links = re.findall(r"\[.*?\]\((?!https?://|mailto:)(.*?)(?:#.*)?\)", content)
+              broken = []
+              for link in links:
+                  link = link.strip()
+                  if not link or link.startswith("#"): continue
+                  target = os.path.normpath(os.path.join(os.path.dirname(f), link))
+                  if not os.path.exists(target):
+                      broken.append(f"{f} -> {link} (resolved: {target})")
+              return broken
+
+          all_broken = []
+          for f in glob.glob("**/*.md", recursive=True):
+              all_broken.extend(check_file(f))
+
+          if all_broken:
+              print("Error: Broken internal documentation links detected:")
+              for b in all_broken:
+                  print("  -", b)
+              exit(1)
+          print("Internal documentation links verified.")
+          '

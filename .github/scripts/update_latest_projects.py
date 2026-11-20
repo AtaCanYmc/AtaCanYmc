@@ -56,7 +56,7 @@ def format_markdown_list(repos):
         desc = repo.get('description') or ''
         desc = ' '.join(desc.splitlines()).strip()
         if desc:
-            lines.append(f'- [{name}]({url}) — {desc}')
+            lines.append(f'- [{name}]({url}): {desc}')
         else:
             lines.append(f'- [{name}]({url})')
     return '\n'.join(lines)
@@ -68,7 +68,7 @@ def update_readme(content_block):
 
     pattern = re.compile(r'(' + re.escape(MARKER_START) + r')(.*?)(' + re.escape(MARKER_END) + r')', re.S)
     if not pattern.search(readme):
-        print('Markers not found in README — make sure START/END markers exist')
+        print('Markers not found in README. Make sure START/END markers exist.')
         sys.exit(2)
 
     replacement = MARKER_START + '\n' + content_block + '\n' + MARKER_END
@@ -88,7 +88,7 @@ def git_commit_push():
     subprocess.run(['git', 'config', 'user.name', 'github-actions[bot]'], check=True)
     subprocess.run(['git', 'config', 'user.email', 'github-actions[bot]@users.noreply.github.com'], check=True)
     subprocess.run(['git', 'add', README_PATH], check=True)
-    # commit may fail if no changes — handle that
+    # commit may fail if no changes; handle that
     res = subprocess.run(['git', 'commit', '-m', 'chore: update latest projects in README'], check=False)
     if res.returncode != 0:
         print('Nothing to commit.')

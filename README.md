@@ -3,6 +3,7 @@
 </div>
 
 <div align="center">
+  <a href="https://github.com/AtaCanYmc/AtaCanYmc/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/AtaCanYmc/AtaCanYmc/ci.yml?branch=main&style=for-the-badge&logo=github&label=CI" alt="CI Status" /></a>
   <img src="https://komarev.com/ghpvc/?username=AtaCanYmc&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" alt="Profile Views" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAtaCanYmc&query=%24.public_repos&label=Public%20Repos&color=333333&style=for-the-badge&logo=github" alt="Public Repos" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAtaCanYmc&query=%24.followers&label=Followers&color=2b9348&style=for-the-badge&logo=github" alt="Followers" />
@@ -22,17 +23,29 @@
 
 ---
 
-# 🌍 About Me :
+## Table of Contents
 
-I am **Ata Can YAYMACI**, a Full-Stack Software Expert and open-source developer specializing in scalable enterprise systems, autonomous AI agent architectures, and hardware-software integration solutions.
-
-My technical focus bridges distributed web and cloud architectures with **AI Agent Systems (LangChain, RAG, Prompt Engineering)** and **IoT ecosystems (ESP32, Microcontrollers, Meshtastic)**. I design modular, reliable, and maintainable systems that connect software and physical devices.
-
-> 💡 **Engineering Mindset:** *Clean code, minimalist design, and scalable architecture.*
+- [About Me](#about-me)
+- [GitHub Stats](#github-stats)
+- [Tech Stack](#tech-stack)
+- [Key Focus & Engineering Domains](#key-focus--engineering-domains)
+- [Latest Projects](#latest-projects)
+- [Repository Architecture & Automation](#repository-architecture--automation)
+- [License](#license)
 
 ---
 
-# 📊 GitHub Stats:
+# 🌍 About Me
+
+I am **Ata Can YAYMACI**, a Full-Stack Software Engineer and open-source developer building distributed web backends, autonomous AI agent systems, and hardware-software integrations.
+
+My work connects cloud services with **AI Agent Systems** such as LangChain, RAG pipelines, and system prompt verification, alongside **IoT hardware** built on ESP32 microcontrollers and Meshtastic networks. I focus on modular, testable architectures that link software services to physical devices.
+
+> **Engineering Mindset:** *Clean code, minimalist design, and scalable architecture.*
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
   <picture>
@@ -134,46 +147,46 @@ My technical focus bridges distributed web and cloud architectures with **AI Age
 <table width="100%">
 <tr>
 <td width="50%">
-<h3 align="center">🤖 Autonomous AI & Agentic Systems</h3>
+<h3 align="center">Autonomous AI & Agentic Systems</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Agentic%20Frameworks-1C3C3C?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain%20%26%20RAG-4B0082?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/LLM%20Security%20%26%20Prompts-000000?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vector%20Search-326CE5?style=flat-square&logoColor=white"/>
 </p>
-<p align="center"><em>Designing autonomous AI agent workflows, retrieval-augmented generation (RAG) pipelines, system prompt architecture, and enterprise AI security audit frameworks.</em></p>
+<p align="center"><em>Designing autonomous AI agent workflows, retrieval-augmented generation pipelines, system prompt architecture, and AI security audit tooling.</em></p>
 </td>
 <td width="50%">
-<h3 align="center">🌐 Full-Stack & Web Systems Engineering</h3>
+<h3 align="center">Full-Stack & Web Systems Engineering</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Dynamic%20Portfolio%20Hubs-632CA6?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microservices%20%26%20APIs-F46800?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/React%20%2F%20Next.js-0074D9?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Sync%20Engine-E6522C?style=flat-square&logoColor=white"/>
 </p>
-<p align="center"><em>Building scalable web platforms, high-throughput backend APIs, microservices, dynamic content aggregators, and resilient database synchronization engines.</em></p>
+<p align="center"><em>Building web platforms, backend APIs, microservices, content aggregators, and database synchronization engines.</em></p>
 </td>
 </tr>
 <tr>
 <td width="50%">
-<h3 align="center">⚙️ IoT, Hardware & Microcontroller Bridges</h3>
+<h3 align="center">IoT, Hardware & Microcontroller Bridges</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Embedded%20IoT%20Systems-00979D?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/ESP32%20%2F%20Arduino-E7352C?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hardware--Software%20APIs-0074D9?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mesh%20Networks-000000?style=flat-square&logoColor=white"/>
 </p>
-<p align="center"><em>Connecting physical hardware with enterprise software through custom microcontrollers, IoT mesh networking (Meshtastic), RESTful hardware adapters, and C++/Python APIs.</em></p>
+<p align="center"><em>Connecting physical hardware with software services through custom microcontrollers, Meshtastic mesh networks, RESTful hardware adapters, and C++/Python APIs.</em></p>
 </td>
 <td width="50%">
-<h3 align="center">🔄 Automation, Web Scraping & Data Pipelines</h3>
+<h3 align="center">Automation, Web Scraping & Data Pipelines</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Concurrent%20Scrapers-232F3E?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Market%20Automation-326CE5?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/ETL%20%26%20Data%20Extraction-632CA6?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/CLI%20Tools-E6522C?style=flat-square&logoColor=white"/>
 </p>
-<p align="center"><em>Developing automated data extraction services, multi-source scraping frameworks, concurrent market research search clients, and CLI developer productivity tools.</em></p>
+<p align="center"><em>Developing automated data extraction services, multi-source scraping frameworks, concurrent market research clients, and CLI developer utilities.</em></p>
 </td>
 </tr>
 </table>
@@ -182,20 +195,68 @@ My technical focus bridges distributed web and cloud architectures with **AI Age
 
 ## ⚡ Latest Projects
 
-> **Note:** The list below is dynamically updated via a custom GitHub Actions automation (`update_latest_projects.py`). It fetches my most recent and active repositories to keep this portfolio fresh!
+> **Note:** The list below is updated daily via GitHub Actions ([`.github/scripts/update_latest_projects.py`](.github/scripts/update_latest_projects.py)). It queries the GitHub REST API for the 10 most recently updated non-fork public repositories.
 
 <!-- START_LATEST_PROJECTS -->
-- [stock-fetcher](https://github.com/AtaCanYmc/stock-fetcher) — Stock Fetcher is a standalone, lightweight Python library for fetching copyright-free images and photos from various popular sources such as Pexels, Pixabay, Unsplash, and Flickr.
-- [who-is-that-pykemon](https://github.com/AtaCanYmc/who-is-that-pykemon) — Transform your portrait photos into nostalgic, authentic "Who's that Pokémon?" reveal meme videos using AI background removal and video synthesis!
-- [reactive-resume-api-client-py](https://github.com/AtaCanYmc/reactive-resume-api-client-py) — An unofficial, type-safe Python SDK client and CLI for Reactive Resume v4.
-- [izbb-acikveri-haritalari](https://github.com/AtaCanYmc/izbb-acikveri-haritalari) — İzmir Açık Veri Haritaları, İzmir Büyükşehir Belediyesi'nin açık veri API'lerini kullanarak, şehrin çeşitli kategorilerindeki önemli yerlerini etkileşimli haritalar üzerinde sunmaktadır.
-- [ToneProject](https://github.com/AtaCanYmc/ToneProject) — Tone is a tactile desktop sound controller that bridges physical haptics with digital audio control. Rather than relying on flat onscreen sliders, Tone translates rotational and tap gestures on an elliptical surface into fluid sound adjustments and real-time optical LED feedback.
-- [resmi-gazete-cli](https://github.com/AtaCanYmc/resmi-gazete-cli) — T.C. Resmi Gazete için Asenkron Python SDK, CLI ve FastMCP Sunucusu
-- [homebrew-tap](https://github.com/AtaCanYmc/homebrew-tap) — Homebrew Tap for AtaCanYmc
-- [tr-app-hukuk](https://github.com/AtaCanYmc/tr-app-hukuk) — Türkiye'de yayında olan ya da yayına girecek mobil ve web uygulamalarının kaynak kodlarını Türk tüketici, ticaret, telif, internet yayıncılığı ve kişisel verilerin korunması mevzuatına göre denetleyen açık kaynaklı bir yapay zeka sistem yeteneğidir.
-- [yargitay-karar-scraper](https://github.com/AtaCanYmc/yargitay-karar-scraper) — Yargıtay Karar Arama portalı için asenkron Python istemcisi, Rich tabanlı CLI arayüzü ve MCP sunucusudur.
-- [forex-pytory](https://github.com/AtaCanYmc/forex-pytory) — A Python library, CLI, and MCP server for extracting structured economic calendar events across Forex, Cryptocurrency, Energy, and Precious Metals markets.
+- [stock-fetcher](https://github.com/AtaCanYmc/stock-fetcher): Stock Fetcher is a standalone, lightweight Python library for fetching copyright-free images and photos from various popular sources such as Pexels, Pixabay, Unsplash, and Flickr.
+- [who-is-that-pykemon](https://github.com/AtaCanYmc/who-is-that-pykemon): Transform your portrait photos into nostalgic, authentic "Who's that Pokémon?" reveal meme videos using AI background removal and video synthesis!
+- [reactive-resume-api-client-py](https://github.com/AtaCanYmc/reactive-resume-api-client-py): An unofficial, type-safe Python SDK client and CLI for Reactive Resume v4.
+- [izbb-acikveri-haritalari](https://github.com/AtaCanYmc/izbb-acikveri-haritalari): İzmir Açık Veri Haritaları, İzmir Büyükşehir Belediyesi'nin açık veri API'lerini kullanarak, şehrin çeşitli kategorilerindeki önemli yerlerini etkileşimli haritalar üzerinde sunmaktadır.
+- [ToneProject](https://github.com/AtaCanYmc/ToneProject): Tone is a tactile desktop sound controller that bridges physical haptics with digital audio control. Rather than relying on flat onscreen sliders, Tone translates rotational and tap gestures on an elliptical surface into fluid sound adjustments and real-time optical LED feedback.
+- [resmi-gazete-cli](https://github.com/AtaCanYmc/resmi-gazete-cli): T.C. Resmi Gazete için Asenkron Python SDK, CLI ve FastMCP Sunucusu
+- [homebrew-tap](https://github.com/AtaCanYmc/homebrew-tap): Homebrew Tap for AtaCanYmc
+- [tr-app-hukuk](https://github.com/AtaCanYmc/tr-app-hukuk): Türkiye'de yayında olan ya da yayına girecek mobil ve web uygulamalarının kaynak kodlarını Türk tüketici, ticaret, telif, internet yayıncılığı ve kişisel verilerin korunması mevzuatına göre denetleyen açık kaynaklı bir yapay zeka sistem yeteneğidir.
+- [yargitay-karar-scraper](https://github.com/AtaCanYmc/yargitay-karar-scraper): Yargıtay Karar Arama portalı için asenkron Python istemcisi, Rich tabanlı CLI arayüzü ve MCP sunucusudur.
+- [forex-pytory](https://github.com/AtaCanYmc/forex-pytory): A Python library, CLI, and MCP server for extracting structured economic calendar events across Forex, Cryptocurrency, Energy, and Precious Metals markets.
 <!-- END_LATEST_PROJECTS -->
+
+---
+
+## 🛠️ Repository Architecture & Automation
+
+This repository contains an automated synchronization pipeline that keeps the project portfolio current.
+
+```
+AtaCanYmc/
+├── .github/
+│   ├── ISSUE_TEMPLATE/          # Structured bug report and feature request forms
+│   ├── PULL_REQUEST_TEMPLATE/   # Standardized PR checklist and verification blocks
+│   ├── scripts/
+│   │   └── update_latest_projects.py  # GitHub REST API client for portfolio updates
+│   ├── workflows/
+│   │   ├── ci.yml               # Syntax, marker, governance, and link validation
+│   │   └── update-latest-projects.yml # Daily scheduled cron job (00:00 UTC)
+│   ├── CODEOWNERS               # Automated review routing
+│   └── dependabot.yml           # Weekly GitHub Actions dependency updates
+├── images/
+│   └── pilot.png                # Profile footer asset
+├── CONTRIBUTING.md              # Contribution guidelines and local verification steps
+├── LICENSE                      # MIT License
+├── README.md                    # Profile overview and automated project feed
+└── SECURITY.md                  # Vulnerability disclosure policy and response SLA
+```
+
+### Local Verification
+
+Run the updater script and syntax verification checks locally:
+
+```bash
+python3 -m py_compile .github/scripts/update_latest_projects.py
+REPO_OWNER=AtaCanYmc NUM_PROJECTS=10 python3 .github/scripts/update_latest_projects.py
+```
+
+| Environment Variable | Default | Description |
+| :--- | :--- | :--- |
+| `GITHUB_REPOSITORY` | `AtaCanYmc/AtaCanYmc` | Target `owner/repo` string used in GitHub Actions to resolve owner name. |
+| `REPO_OWNER` | `AtaCanYmc` | Fallback GitHub username queried when `GITHUB_REPOSITORY` is unset. |
+| `NUM_PROJECTS` | `10` | Maximum number of non-fork, non-archived repositories rendered into the feed. |
+| `GITHUB_TOKEN` | *Optional* | Personal access token or Actions token for authenticated GitHub API requests. |
+
+---
+
+## 📄 License
+
+Distributed under the [MIT License](LICENSE). See [`CONTRIBUTING.md`](CONTRIBUTING.md) and [`SECURITY.md`](SECURITY.md) for governance and vulnerability disclosure policies.
 
 ---
 
@@ -208,9 +269,9 @@ My technical focus bridges distributed web and cloud architectures with **AI Age
 <div align="center">
   <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=AtaCanYmc&icon=8&color=0" alt="Visitor Count" /></a>
   <br/><br/>
-  <i>Let's build the future together. <br> Drop a message if you'd like to collaborate or talk tech!</i>
+  <i>Drop a message if you would like to collaborate or discuss engineering.</i>
   <br/><br/>
   <img src="images/pilot.png" alt="Learning on the fly" width="400" style="border-radius:10px;" />
   <br/>
-  <i>*Me reading the documentation right before deploying to production ✈️📖*</i>
+  <i>*Reading the documentation right before deploying to production*</i>
 </div>
