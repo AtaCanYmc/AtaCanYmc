@@ -212,54 +212,6 @@ My work connects cloud services with **AI Agent Systems** such as LangChain, RAG
 
 ---
 
-## 🛠️ Repository Architecture & Automation
-
-This repository contains an automated synchronization pipeline that keeps the project portfolio current.
-
-```
-AtaCanYmc/
-├── .github/
-│   ├── ISSUE_TEMPLATE/          # Structured bug report and feature request forms
-│   ├── PULL_REQUEST_TEMPLATE/   # Standardized PR checklist and verification blocks
-│   ├── scripts/
-│   │   └── update_latest_projects.py  # GitHub REST API client for portfolio updates
-│   ├── workflows/
-│   │   ├── ci.yml               # Syntax, marker, governance, and link validation
-│   │   └── update-latest-projects.yml # Daily scheduled cron job (00:00 UTC)
-│   ├── CODEOWNERS               # Automated review routing
-│   └── dependabot.yml           # Weekly GitHub Actions dependency updates
-├── images/
-│   └── pilot.png                # Profile footer asset
-├── CONTRIBUTING.md              # Contribution guidelines and local verification steps
-├── LICENSE                      # MIT License
-├── README.md                    # Profile overview and automated project feed
-└── SECURITY.md                  # Vulnerability disclosure policy and response SLA
-```
-
-### Local Verification
-
-Run the updater script and syntax verification checks locally:
-
-```bash
-python3 -m py_compile .github/scripts/update_latest_projects.py
-REPO_OWNER=AtaCanYmc NUM_PROJECTS=10 python3 .github/scripts/update_latest_projects.py
-```
-
-| Environment Variable | Default | Description |
-| :--- | :--- | :--- |
-| `GITHUB_REPOSITORY` | `AtaCanYmc/AtaCanYmc` | Target `owner/repo` string used in GitHub Actions to resolve owner name. |
-| `REPO_OWNER` | `AtaCanYmc` | Fallback GitHub username queried when `GITHUB_REPOSITORY` is unset. |
-| `NUM_PROJECTS` | `10` | Maximum number of non-fork, non-archived repositories rendered into the feed. |
-| `GITHUB_TOKEN` | *Optional* | Personal access token or Actions token for authenticated GitHub API requests. |
-
----
-
-## 📄 License
-
-Distributed under the [MIT License](LICENSE). See [`CONTRIBUTING.md`](CONTRIBUTING.md) and [`SECURITY.md`](SECURITY.md) for governance and vulnerability disclosure policies.
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,18,25&height=100&section=footer"/>
 </div>
