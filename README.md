@@ -30,8 +30,6 @@
 - [Tech Stack](#tech-stack)
 - [Key Focus & Engineering Domains](#key-focus--engineering-domains)
 - [Latest Projects](#latest-projects)
-- [Repository Architecture & Automation](#repository-architecture--automation)
-- [License](#license)
 
 ---
 
@@ -195,8 +193,6 @@ My work connects cloud services with **AI Agent Systems** such as LangChain, RAG
 
 ## ⚡ Latest Projects
 
-> **Note:** The list below is updated daily via GitHub Actions ([`.github/scripts/update_latest_projects.py`](.github/scripts/update_latest_projects.py)). It queries the GitHub REST API for the 10 most recently updated non-fork public repositories.
-
 <!-- START_LATEST_PROJECTS -->
 - [stock-fetcher](https://github.com/AtaCanYmc/stock-fetcher): Stock Fetcher is a standalone, lightweight Python library for fetching copyright-free images and photos from various popular sources such as Pexels, Pixabay, Unsplash, and Flickr.
 - [who-is-that-pykemon](https://github.com/AtaCanYmc/who-is-that-pykemon): Transform your portrait photos into nostalgic, authentic "Who's that Pokémon?" reveal meme videos using AI background removal and video synthesis!
@@ -213,12 +209,6 @@ My work connects cloud services with **AI Agent Systems** such as LangChain, RAG
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,18,25&height=100&section=footer"/>
-</div>
-
----
-
-<div align="center">
   <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=AtaCanYmc&icon=8&color=0" alt="Visitor Count" /></a>
   <br/><br/>
   <i>Drop a message if you would like to collaborate or discuss engineering.</i>
@@ -226,4 +216,10 @@ My work connects cloud services with **AI Agent Systems** such as LangChain, RAG
   <img src="images/pilot.png" alt="Learning on the fly" width="400" style="border-radius:10px;" />
   <br/>
   <i>*Reading the documentation right before deploying to production*</i>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,18,25&height=100&section=footer"/>
 </div>
