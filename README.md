@@ -184,16 +184,16 @@ My work connects cloud services with **AI Agent Systems** such as LangChain, RAG
 ## ⚡ Latest Projects
 
 <!-- START_LATEST_PROJECTS -->
-- [stock-fetcher](https://github.com/AtaCanYmc/stock-fetcher): Stock Fetcher is a standalone, lightweight Python library for fetching copyright-free images and photos from various popular sources such as Pexels, Pixabay, Unsplash, and Flickr.
+- [WorthIt](https://github.com/AtaCanYmc/WorthIt): A professional, global-ready React Native application designed to help users make smarter shopping decisions. Compare Pizza deals by area, Coffee sizes by volume, and Market products by unit price.
+- [izko-gold-price-api](https://github.com/AtaCanYmc/izko-gold-price-api): Flask REST API and Python package that scrapes live gold and currency rates from the Izmir Jewelers Chamber (izko.org.tr) using headless Chromium via Playwright.
+- [GitRadar](https://github.com/AtaCanYmc/GitRadar): GitRadar evaluates software project ideas against existing open-source repositories on GitHub.
+- [PixelSprint](https://github.com/AtaCanYmc/PixelSprint): PixelSprint runs entirely in the browser. There is no backend and no account system. Cards, sessions, votes and timer state live in localStorage. Participants in the same session exchange events through BroadcastChannel for local tabs and PeerJS WebRTC data channels for other devices.
+- [izmir-open-data-py](https://github.com/AtaCanYmc/izmir-open-data-py): İzmir Büyükşehir Belediyesi Açık Veri Portalı API servisleri için geliştirilmiş modern, asenkron Python istemci kütüphanesi, terminal CLI aracı ve MCP sunucusu.
+- [WhoDisGit](https://github.com/AtaCanYmc/WhoDisGit): WhoDisGit is a client-side web application built with React, TypeScript, and Tailwind CSS. It communicates directly with the GitHub REST API v3 to analyze follower networks, calculate reciprocity, and aggregate repository statistics.
+- [stock-fetcher](https://github.com/AtaCanYmc/stock-fetcher): Unified Python client, CLI utility, and MCP server for retrieving copyright-free images from Pexels, Pixabay, Unsplash, Flickr, Wikimedia Commons, and Openverse.
+- [izmir-open-data-js](https://github.com/AtaCanYmc/izmir-open-data-js): İzmir Büyükşehir Belediyesi Açık Veri Portalı API servisleri için geliştirilmiş TypeScript ve JavaScript istemci kütüphanesi, terminal CLI aracı ve MCP sunucusu.
 - [who-is-that-pykemon](https://github.com/AtaCanYmc/who-is-that-pykemon): Transform your portrait photos into nostalgic, authentic "Who's that Pokémon?" reveal meme videos using AI background removal and video synthesis!
 - [reactive-resume-api-client-py](https://github.com/AtaCanYmc/reactive-resume-api-client-py): An unofficial, type-safe Python SDK client and CLI for Reactive Resume v4.
-- [izbb-acikveri-haritalari](https://github.com/AtaCanYmc/izbb-acikveri-haritalari): İzmir Açık Veri Haritaları, İzmir Büyükşehir Belediyesi'nin açık veri API'lerini kullanarak, şehrin çeşitli kategorilerindeki önemli yerlerini etkileşimli haritalar üzerinde sunmaktadır.
-- [ToneProject](https://github.com/AtaCanYmc/ToneProject): Tone is a tactile desktop sound controller that bridges physical haptics with digital audio control. Rather than relying on flat onscreen sliders, Tone translates rotational and tap gestures on an elliptical surface into fluid sound adjustments and real-time optical LED feedback.
-- [resmi-gazete-cli](https://github.com/AtaCanYmc/resmi-gazete-cli): T.C. Resmi Gazete için Asenkron Python SDK, CLI ve FastMCP Sunucusu
-- [homebrew-tap](https://github.com/AtaCanYmc/homebrew-tap): Homebrew Tap for AtaCanYmc
-- [tr-app-hukuk](https://github.com/AtaCanYmc/tr-app-hukuk): Türkiye'de yayında olan ya da yayına girecek mobil ve web uygulamalarının kaynak kodlarını Türk tüketici, ticaret, telif, internet yayıncılığı ve kişisel verilerin korunması mevzuatına göre denetleyen açık kaynaklı bir yapay zeka sistem yeteneğidir.
-- [yargitay-karar-scraper](https://github.com/AtaCanYmc/yargitay-karar-scraper): Yargıtay Karar Arama portalı için asenkron Python istemcisi, Rich tabanlı CLI arayüzü ve MCP sunucusudur.
-- [forex-pytory](https://github.com/AtaCanYmc/forex-pytory): A Python library, CLI, and MCP server for extracting structured economic calendar events across Forex, Cryptocurrency, Energy, and Precious Metals markets.
 <!-- END_LATEST_PROJECTS -->
 
 ---
