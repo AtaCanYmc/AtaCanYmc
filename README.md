@@ -23,16 +23,6 @@
 
 ---
 
-## Table of Contents
-
-- [About Me](#about-me)
-- [GitHub Stats](#github-stats)
-- [Tech Stack](#tech-stack)
-- [Key Focus & Engineering Domains](#key-focus--engineering-domains)
-- [Latest Projects](#latest-projects)
-
----
-
 # 🌍 About Me
 
 I am **Ata Can YAYMACI**, a Full-Stack Software Engineer and open-source developer building distributed web backends, autonomous AI agent systems, and hardware-software integrations.
