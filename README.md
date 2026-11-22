@@ -184,16 +184,16 @@ My work connects cloud services with **AI Agent Systems** such as LangChain, RAG
 ## ⚡ Latest Projects
 
 <!-- START_LATEST_PROJECTS -->
+- [RubberOtter](https://github.com/AtaCanYmc/RubberOtter): RubberOtter is an open-source ATmega32U4 + HM-10/ESP32 wireless USB Human Interface Device (HID) hardware platform. This repository is focused exclusively on PlatformIO firmware, the ATmega32U4 Caterina 1200 bps Web Serial Flasher, and the rubberotter Python SDK, CLI, and MCP server.
+- [RubberDeck](https://github.com/AtaCanYmc/RubberDeck): Unified control PWA and Capacitor 8 (Android/iOS) application for RubberOtter and RubberOrca USB HID + BLE 5.0 hardware.
+- [RubberOrca](https://github.com/AtaCanYmc/RubberOrca): Single-chip ESP32-S3 firmware that exposes a wired USB HID keyboard, mouse, and consumer control interface to a target host while accepting wireless commands over BLE 5.0 GATT.
+- [rtfs](https://github.com/AtaCanYmc/rtfs): rtfs is an asynchronous Python 3.11+ CLI, SDK, and FastMCP server that queries multiple screenplay archives, parses PDF and HTML layouts into a typed Pydantic v2 Abstract Syntax Tree, and exports to JSON, Fountain, or dialogue analytics.
+- [tap-brewer](https://github.com/AtaCanYmc/tap-brewer): An open-source AI agent skill that publishes the project in your current working directory to a personal Homebrew tap repository, updates the tap README.md table, and validates the generated formula.
 - [WorthIt](https://github.com/AtaCanYmc/WorthIt): A professional, global-ready React Native application designed to help users make smarter shopping decisions. Compare Pizza deals by area, Coffee sizes by volume, and Market products by unit price.
 - [izko-gold-price-api](https://github.com/AtaCanYmc/izko-gold-price-api): Flask REST API and Python package that scrapes live gold and currency rates from the Izmir Jewelers Chamber (izko.org.tr) using headless Chromium via Playwright.
 - [GitRadar](https://github.com/AtaCanYmc/GitRadar): GitRadar evaluates software project ideas against existing open-source repositories on GitHub.
 - [PixelSprint](https://github.com/AtaCanYmc/PixelSprint): PixelSprint runs entirely in the browser. There is no backend and no account system. Cards, sessions, votes and timer state live in localStorage. Participants in the same session exchange events through BroadcastChannel for local tabs and PeerJS WebRTC data channels for other devices.
 - [izmir-open-data-py](https://github.com/AtaCanYmc/izmir-open-data-py): İzmir Büyükşehir Belediyesi Açık Veri Portalı API servisleri için geliştirilmiş modern, asenkron Python istemci kütüphanesi, terminal CLI aracı ve MCP sunucusu.
-- [WhoDisGit](https://github.com/AtaCanYmc/WhoDisGit): WhoDisGit is a client-side web application built with React, TypeScript, and Tailwind CSS. It communicates directly with the GitHub REST API v3 to analyze follower networks, calculate reciprocity, and aggregate repository statistics.
-- [stock-fetcher](https://github.com/AtaCanYmc/stock-fetcher): Unified Python client, CLI utility, and MCP server for retrieving copyright-free images from Pexels, Pixabay, Unsplash, Flickr, Wikimedia Commons, and Openverse.
-- [izmir-open-data-js](https://github.com/AtaCanYmc/izmir-open-data-js): İzmir Büyükşehir Belediyesi Açık Veri Portalı API servisleri için geliştirilmiş TypeScript ve JavaScript istemci kütüphanesi, terminal CLI aracı ve MCP sunucusu.
-- [who-is-that-pykemon](https://github.com/AtaCanYmc/who-is-that-pykemon): Transform your portrait photos into nostalgic, authentic "Who's that Pokémon?" reveal meme videos using AI background removal and video synthesis!
-- [reactive-resume-api-client-py](https://github.com/AtaCanYmc/reactive-resume-api-client-py): An unofficial, type-safe Python SDK client and CLI for Reactive Resume v4.
 <!-- END_LATEST_PROJECTS -->
 
 ---
