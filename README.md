@@ -184,6 +184,9 @@ My work connects cloud services with **AI Agent Systems** such as LangChain, RAG
 ## ⚡ Latest Projects
 
 <!-- START_LATEST_PROJECTS -->
+- [bom-sourcing](https://github.com/AtaCanYmc/bom-sourcing): Agent skill for extracting traceable Bills of Materials from hardware, IoT, maker, and software repositories, normalizing component names, identifying missing parts, and comparing live store pricing, stock, carts, and shipping through robo-market-search.
+- [ForexFactoryScrapper](https://github.com/AtaCanYmc/ForexFactoryScrapper): ForexFactoryScrapper is a Python-based web scraping tool designed to extract financial event data from the ForexFactory website. This project provides a simple and effective way to scrape calendar events, forecast data, actual values, and other relevant information for forex trading analysis.
+- [izbb-acikveri-haritalari](https://github.com/AtaCanYmc/izbb-acikveri-haritalari): İzmir Açık Veri Haritaları, İzmir Büyükşehir Belediyesi'nin açık veri API'lerini kullanarak, şehrin çeşitli kategorilerindeki önemli yerlerini etkileşimli haritalar üzerinde sunmaktadır.
 - [RubberOtter](https://github.com/AtaCanYmc/RubberOtter): RubberOtter is an open-source ATmega32U4 + HM-10/ESP32 wireless USB Human Interface Device (HID) hardware platform. This repository is focused exclusively on PlatformIO firmware, the ATmega32U4 Caterina 1200 bps Web Serial Flasher, and the rubberotter Python SDK, CLI, and MCP server.
 - [RubberDeck](https://github.com/AtaCanYmc/RubberDeck): Unified control PWA and Capacitor 8 (Android/iOS) application for RubberOtter and RubberOrca USB HID + BLE 5.0 hardware.
 - [RubberOrca](https://github.com/AtaCanYmc/RubberOrca): Single-chip ESP32-S3 firmware that exposes a wired USB HID keyboard, mouse, and consumer control interface to a target host while accepting wireless commands over BLE 5.0 GATT.
@@ -191,9 +194,6 @@ My work connects cloud services with **AI Agent Systems** such as LangChain, RAG
 - [tap-brewer](https://github.com/AtaCanYmc/tap-brewer): An open-source AI agent skill that publishes the project in your current working directory to a personal Homebrew tap repository, updates the tap README.md table, and validates the generated formula.
 - [WorthIt](https://github.com/AtaCanYmc/WorthIt): A professional, global-ready React Native application designed to help users make smarter shopping decisions. Compare Pizza deals by area, Coffee sizes by volume, and Market products by unit price.
 - [izko-gold-price-api](https://github.com/AtaCanYmc/izko-gold-price-api): Flask REST API and Python package that scrapes live gold and currency rates from the Izmir Jewelers Chamber (izko.org.tr) using headless Chromium via Playwright.
-- [GitRadar](https://github.com/AtaCanYmc/GitRadar): GitRadar evaluates software project ideas against existing open-source repositories on GitHub.
-- [PixelSprint](https://github.com/AtaCanYmc/PixelSprint): PixelSprint runs entirely in the browser. There is no backend and no account system. Cards, sessions, votes and timer state live in localStorage. Participants in the same session exchange events through BroadcastChannel for local tabs and PeerJS WebRTC data channels for other devices.
-- [izmir-open-data-py](https://github.com/AtaCanYmc/izmir-open-data-py): İzmir Büyükşehir Belediyesi Açık Veri Portalı API servisleri için geliştirilmiş modern, asenkron Python istemci kütüphanesi, terminal CLI aracı ve MCP sunucusu.
 <!-- END_LATEST_PROJECTS -->
 
 ---
