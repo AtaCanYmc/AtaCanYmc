@@ -1,187 +1,197 @@
+<!-- Hallmark · pre-emit critique: P5 H5 E5 S5 R5 V5 -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,18,25&height=220&section=header&text=Ata%20Can%20YAYMACI&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Software%20Expert%20%7C%20AI%20Agents%20and%20IoT%20Enthusiast&descAlignY=55&descSize=20"/>
-</div>
 
-<div align="center">
-  <a href="https://github.com/AtaCanYmc/AtaCanYmc/actions/workflows/ci.yml"><img src="https://img.shields.io/github/actions/workflow/status/AtaCanYmc/AtaCanYmc/ci.yml?branch=main&style=for-the-badge&logo=github&label=CI" alt="CI Status" /></a>
-  <img src="https://komarev.com/ghpvc/?username=AtaCanYmc&style=for-the-badge&color=A855F7&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAtaCanYmc&query=%24.public_repos&label=Public%20Repos&color=333333&style=for-the-badge&logo=github" alt="Public Repos" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAtaCanYmc&query=%24.followers&label=Followers&color=2b9348&style=for-the-badge&logo=github" alt="Followers" />
+<!-- HERO SECTION: Editorial & Minimalist -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090B,100:18181B&height=260&section=header&text=ATA%20CAN%20YAYMACI&fontSize=46&fontColor=FAFAFA&fontAlignY=42&desc=FULL-STACK%20ARCHITECT%20%E2%80%A2%20AI%20AGENTS%20%E2%80%A2%20EMBEDDED%20IOT&descAlignY=64&descSize=14&descColor=A1A1AA" width="100%" />
+
+<br/>
+
+<!-- SUBTLE STATUS & SOCIAL BAR -->
+<p>
+  <a href="https://github.com/AtaCanYmc/AtaCanYmc/actions/workflows/ci.yml">
+    <img src="https://img.shields.io/github/actions/workflow/status/AtaCanYmc/AtaCanYmc/ci.yml?branch=main&style=flat-square&color=10B981&labelColor=09090B&label=SYSTEM%20STATUS" alt="CI Status" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=AtaCanYmc&style=flat-square&color=18181B&labelColor=09090B&label=VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAtaCanYmc&query=%24.public_repos&label=REPOSITORIES&color=18181B&labelColor=09090B&style=flat-square" alt="Public Repos" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FAtaCanYmc&query=%24.followers&label=FOLLOWERS&color=18181B&labelColor=09090B&style=flat-square" alt="Followers" />
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/ata-can-yaymac%C4%B1/"><img src="https://img.shields.io/badge/LINKEDIN-09090B?style=for-the-badge&logo=linkedin&logoColor=FAFAFA" alt="LinkedIn" /></a>
+  <a href="https://medium.com/@atacanymc"><img src="https://img.shields.io/badge/MEDIUM-09090B?style=for-the-badge&logo=medium&logoColor=FAFAFA" alt="Medium" /></a>
+  <a href="https://dev.to/atacanymc"><img src="https://img.shields.io/badge/DEV.TO-09090B?style=for-the-badge&logo=dev.to&logoColor=FAFAFA" alt="DEV.to" /></a>
+  <a href="https://www.kaggle.com/atacanyaymac"><img src="https://img.shields.io/badge/KAGGLE-09090B?style=for-the-badge&logo=kaggle&logoColor=FAFAFA" alt="Kaggle" /></a>
+  <a href="https://www.npmjs.com/~atacanymc"><img src="https://img.shields.io/badge/NPM-09090B?style=for-the-badge&logo=npm&logoColor=FAFAFA" alt="NPM" /></a>
+  <a href="https://pypi.org/user/atacanymc/"><img src="https://img.shields.io/badge/PYPI-09090B?style=for-the-badge&logo=pypi&logoColor=FAFAFA" alt="PyPI" /></a>
+  <a href="mailto:atacanymc@gmail.com"><img src="https://img.shields.io/badge/CONTACT-FAFAFA?style=for-the-badge&logo=gmail&logoColor=09090B" alt="Email" /></a>
+</p>
+
 </div>
 
 <br/>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ata-can-yaymac%C4%B1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://medium.com/@atacanymc"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
-  <a href="https://dev.to/atacanymc"><img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.to" /></a>
-  <a href="https://www.kaggle.com/atacanyaymac"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle" /></a>
-  <a href="https://www.npmjs.com/~atacanymc"><img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" /></a>
-  <a href="https://pypi.org/user/atacanymc/"><img src="https://img.shields.io/badge/PyPI-%233775A9.svg?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI" /></a>
-  <a href="mailto:atacanymc@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
-
 ---
 
-# 🌍 About Me
+### `01` // MANIFESTO & ARCHITECTURE
 
-I am **Ata Can YAYMACI**, a Full-Stack Software Engineer and open-source developer building distributed web backends, autonomous AI agent systems, and hardware-software integrations.
-
-My work connects cloud services with **AI Agent Systems** such as LangChain, RAG pipelines, and system prompt verification, alongside **IoT hardware** built on ESP32 microcontrollers and Meshtastic networks. I focus on modular, testable architectures that link software services to physical devices.
-
-> **Engineering Mindset:** *Clean code, minimalist design, and scalable architecture.*
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AtaCanYmc&custom_title=Contribution%20Graph&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&area=true&hide_border=true"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AtaCanYmc&custom_title=Contribution%20Graph&theme=minimal&area=true&hide_border=true"/>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtaCanYmc&custom_title=Contribution%20Graph&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=A855F7&area=true&hide_border=true"/>
-  </picture>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AtaCanYmc&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AtaCanYmc&show_icons=true&theme=tokyonight&hide_border=true&title_color=A855F7&icon_color=A855F7&text_color=94A3B8" alt="Ata Can's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AtaCanYmc&layout=compact&theme=tokyonight&hide_border=true&title_color=A855F7&text_color=94A3B8" alt="Top Languages" width="48%" />
-</div>
-
----
-
-# 💻 Tech Stack
-
-<div align="center">
-
-### Frontend & Design
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" alt="HTML5"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" alt="CSS3"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" alt="Next.js"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" alt="Vue.js"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" alt="Bootstrap"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50" alt="Figma"/> 
-
----
-
-### Backend & Programming
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" alt="C++"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" alt="C"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50" alt="C#"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" alt="Java"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" alt="FastAPI"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="50" alt="Flask"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" alt=".NET Core"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" alt="Spring Boot"/> 
-
----
-
-### Infra & DevOps
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" alt="GitHub"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" alt="Git"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50" alt="Nginx"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" alt="Bash"/> 
-
----
-
-### Databases & Storage
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" alt="PostgreSQL"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="50" alt="Oracle"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="50" alt="Supabase"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" alt="Firebase"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50" alt="SQLite"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50" alt="Redis"/> 
-
----
-
-### AI, Machine Learning & Data
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="50" alt="NumPy"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="50" alt="Pandas"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="50" alt="OpenCV"/> 
-<img src="https://cdn.simpleicons.org/roboflow/6706CE" width="50" alt="Roboflow"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="50" alt="Jupyter"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" alt="TensorFlow"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" alt="PyTorch"/> 
-
----
-
-### IoT & Hardware Engineering
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="50" alt="Arduino"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="50" alt="Raspberry Pi"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" alt="VS Code"/> 
-
-</div>
-
-
-<!-- KEY PROJECTS -->
-## 🏗️ Key Focus & Engineering Domains
-
-<table width="100%">
-<tr>
-<td width="50%">
-<h3 align="center">Autonomous AI & Agentic Systems</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Agentic%20Frameworks-1C3C3C?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain%20%26%20RAG-4B0082?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLM%20Security%20%26%20Prompts-000000?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vector%20Search-326CE5?style=flat-square&logoColor=white"/>
-</p>
-<p align="center"><em>Designing autonomous AI agent workflows, retrieval-augmented generation pipelines, system prompt architecture, and AI security audit tooling.</em></p>
-</td>
-<td width="50%">
-<h3 align="center">Full-Stack & Web Systems Engineering</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Dynamic%20Portfolio%20Hubs-632CA6?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microservices%20%26%20APIs-F46800?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React%20%2F%20Next.js-0074D9?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Sync%20Engine-E6522C?style=flat-square&logoColor=white"/>
-</p>
-<p align="center"><em>Building web platforms, backend APIs, microservices, content aggregators, and database synchronization engines.</em></p>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<h3 align="center">IoT, Hardware & Microcontroller Bridges</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Embedded%20IoT%20Systems-00979D?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ESP32%20%2F%20Arduino-E7352C?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hardware--Software%20APIs-0074D9?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mesh%20Networks-000000?style=flat-square&logoColor=white"/>
-</p>
-<p align="center"><em>Connecting physical hardware with software services through custom microcontrollers, Meshtastic mesh networks, RESTful hardware adapters, and C++/Python APIs.</em></p>
-</td>
-<td width="50%">
-<h3 align="center">Automation, Web Scraping & Data Pipelines</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Concurrent%20Scrapers-232F3E?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Market%20Automation-326CE5?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ETL%20%26%20Data%20Extraction-632CA6?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CLI%20Tools-E6522C?style=flat-square&logoColor=white"/>
-</p>
-<p align="center"><em>Developing automated data extraction services, multi-source scraping frameworks, concurrent market research clients, and CLI developer utilities.</em></p>
-</td>
-</tr>
+<table>
+  <tr>
+    <td width="65%" valign="top">
+      <br/>
+      <b>Engineering at the intersection of autonomous intelligence, distributed cloud systems, and physical hardware.</b>
+      <br/><br/>
+      I am <b>Ata Can YAYMACI</b>, a Full-Stack Software Engineer and open-source creator. My work bridges scalable web architectures with autonomous <b>AI Agent Systems</b> including LangChain, RAG pipelines, MCP servers, and prompt verification alongside low-level <b>IoT Hardware</b> built on ESP32, ATmega32U4, BLE 5.0, and Meshtastic networks.
+      <br/><br/>
+      <blockquote>
+        <i>"Clean code, minimalist design, and modular architectures that connect software intelligence to physical devices."</i>
+      </blockquote>
+    </td>
+    <td width="35%" valign="top">
+      <br/>
+      <b>CORE FOCUS</b>
+      <br/><br/>
+      <code>[01]</code> <b>Agentic Workflows & MCP</b><br/>
+      <code>[02]</code> <b>Distributed Full-Stack</b><br/>
+      <code>[03]</code> <b>Embedded Firmware & HID</b><br/>
+      <code>[04]</code> <b>High-Concurrency ETL</b><br/>
+      <br/>
+      <b>LOCATION</b><br/>
+      <code>İzmir, Türkiye (UTC+3)</code>
+      <br/><br/>
+    </td>
+  </tr>
 </table>
 
+<br/>
+
 ---
 
-## ⚡ Latest Projects
+### `02` // ENGINEERING DOMAINS
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4><code>AI //</code> AUTONOMOUS & AGENTIC SYSTEMS</h4>
+      <p>Designing deterministic agent workflows, retrieval-augmented generation pipelines, Model Context Protocol servers, and LLM prompt security auditing tools.</p>
+      <p>
+        <img src="https://img.shields.io/badge/LangChain_%26_RAG-18181B?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MCP_Servers-18181B?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Prompt_Security-18181B?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vector_Search-18181B?style=flat-square&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><code>WEB //</code> FULL-STACK & DISTRIBUTED SYSTEMS</h4>
+      <p>Architecting high-throughput backend microservices, asynchronous Python and Node APIs, reactive TypeScript interfaces, and real-time data synchronization engines.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_%26_React-18181B?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/FastAPI_%26_Node-18181B?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Microservices-18181B?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React_Native_/_PWA-18181B?style=flat-square&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><code>IOT //</code> HARDWARE & FIRMWARE BRIDGES</h4>
+      <p>Connecting physical hardware with cloud and mobile ecosystems via custom C++ firmware, wireless USB HID emulation, Web Serial flashers, and Meshtastic mesh networks.</p>
+      <p>
+        <img src="https://img.shields.io/badge/ESP32_%26_ATmega32U4-18181B?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/BLE_5.0_%26_USB_HID-18181B?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PlatformIO-18181B?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Meshtastic-18181B?style=flat-square&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4><code>DATA //</code> AUTOMATION & EXTRACTION PIPELINES</h4>
+      <p>Building concurrent web scraping frameworks, headless browser automation, typed AST document parsers, and developer CLI and SDK tooling published on PyPI and NPM.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Async_Scrapers-18181B?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Playwright-18181B?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CLI_%26_SDK_Design-18181B?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ETL_Pipelines-18181B?style=flat-square&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+### `03` // TECHNICAL ARSENAL
+
+<table width="100%">
+  <tr>
+    <td width="22%"><b>LANGUAGES</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-09090B?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-09090B?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-09090B?style=flat-square&logo=javascript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C++-09090B?style=flat-square&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C-09090B?style=flat-square&logo=c&logoColor=white"/>
+      <img src="https://img.shields.io/badge/C%23-09090B?style=flat-square&logo=csharp&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Java-09090B?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Bash-09090B?style=flat-square&logo=gnubash&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>FRONTEND & UI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-09090B?style=flat-square&logo=react&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Next.js-09090B?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vue.js-09090B?style=flat-square&logo=vuedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/HTML5_%26_CSS3-09090B?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Figma-09090B?style=flat-square&logo=figma&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>BACKEND & API</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-09090B?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-09090B?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Flask-09090B?style=flat-square&logo=flask&logoColor=white"/>
+      <img src="https://img.shields.io/badge/.NET_Core-09090B?style=flat-square&logo=dotnet&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Spring_Boot-09090B?style=flat-square&logo=springboot&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI & VISION</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-09090B?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorFlow-09090B?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-09090B?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy_%26_Pandas-09090B?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Roboflow-09090B?style=flat-square&logo=roboflow&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>DATA & INFRA</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-09090B?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-09090B?style=flat-square&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Redis-09090B?style=flat-square&logo=redis&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Supabase-09090B?style=flat-square&logo=supabase&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-09090B?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Nginx-09090B?style=flat-square&logo=nginx&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Linux-09090B?style=flat-square&logo=linux&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>HARDWARE & IOT</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Arduino-09090B?style=flat-square&logo=arduino&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Raspberry_Pi-09090B?style=flat-square&logo=raspberrypi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ESP32_/_PlatformIO-09090B?style=flat-square&logo=espressif&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+---
+
+### `04` // SELECTED RELEASES & LIVE FEED
 
 <!-- START_LATEST_PROJECTS -->
 - [bom-sourcing](https://github.com/AtaCanYmc/bom-sourcing): Agent skill for extracting traceable Bills of Materials from hardware, IoT, maker, and software repositories, normalizing component names, identifying missing parts, and comparing live store pricing, stock, carts, and shipping through robo-market-search.
@@ -196,20 +206,48 @@ My work connects cloud services with **AI Agent Systems** such as LangChain, RAG
 - [izko-gold-price-api](https://github.com/AtaCanYmc/izko-gold-price-api): Flask REST API and Python package that scrapes live gold and currency rates from the Izmir Jewelers Chamber (izko.org.tr) using headless Chromium via Playwright.
 <!-- END_LATEST_PROJECTS -->
 
+<br/>
+
 ---
 
+### `05` // TELEMETRY & ACTIVITY
+
 <div align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=AtaCanYmc&icon=8&color=0" alt="Visitor Count" /></a>
-  <br/><br/>
-  <i>Drop a message if you would like to collaborate or discuss engineering.</i>
-  <br/><br/>
-  <img src="images/pilot.png" alt="Learning on the fly" width="400" style="border-radius:10px;" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AtaCanYmc&custom_title=CONTRIBUTION%20PULSE&bg_color=09090B&color=A1A1AA&line=FAFAFA&point=10B981&area_color=27272A&area=true&hide_border=true"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AtaCanYmc&custom_title=CONTRIBUTION%20PULSE&bg_color=FAFAFA&color=52525B&line=09090B&point=10B981&area_color=E4E4E7&area=true&hide_border=true"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AtaCanYmc&custom_title=CONTRIBUTION%20PULSE&bg_color=09090B&color=A1A1AA&line=FAFAFA&point=10B981&area_color=27272A&area=true&hide_border=true" width="100%"/>
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AtaCanYmc&show_icons=true&bg_color=09090B&border_color=27272A&title_color=FAFAFA&icon_color=10B981&text_color=A1A1AA" alt="GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AtaCanYmc&layout=compact&bg_color=09090B&border_color=27272A&title_color=FAFAFA&text_color=A1A1AA" alt="Top Languages" width="49%" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AtaCanYmc&background=09090B&border=27272A&ring=FAFAFA&fire=10B981&currStreakNum=FAFAFA&sideNums=FAFAFA&currStreakLabel=A1A1AA&sideLabels=A1A1AA&dates=71717A" alt="GitHub Streak" width="65%"/>
+</div>
+
+<br/>
+
+---
+
+### `06` // OFF THE CLOCK & COLLABORATION
+
+<div align="center">
   <br/>
-  <i>*Reading the documentation right before deploying to production*</i>
+  <img src="images/pilot.png" alt="Learning on the fly" width="420" style="border-radius: 6px;" />
+  <br/><br/>
+  <code>"Reading the documentation right before deploying to production."</code>
+  <br/><br/>
+  <p>Open to architectural discussions, open-source collaborations, and R&D projects.</p>
+  <a href="mailto:atacanymc@gmail.com">
+    <img src="https://img.shields.io/badge/INITIATE_CONVERSATION_%E2%86%92-FAFAFA?style=for-the-badge&logoColor=09090B" alt="Initiate Conversation" />
+  </a>
+  <br/><br/>
 </div>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,18,25&height=100&section=footer"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:18181B,100:09090B&height=60&section=footer&text=DESIGNED%20%26%20ENGINEERED%20BY%20ATA%20CAN%20YAYMACI%20%E2%80%A2%202026&fontSize=11&fontColor=71717A&fontAlignY=50" width="100%" />
