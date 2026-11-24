@@ -194,16 +194,16 @@
 ### `04` // SELECTED RELEASES & LIVE FEED
 
 <!-- START_LATEST_PROJECTS -->
+- [prompts-and-skills](https://github.com/AtaCanYmc/prompts-and-skills): A production-grade, structured repository dedicated to high-level AI System Prompts, Agentic Skills, Security Audit Frameworks, and Architectural Guidelines for modern Large Language Models (LLMs) and Autonomous AI Agents.
 - [bom-sourcing](https://github.com/AtaCanYmc/bom-sourcing): Agent skill for extracting traceable Bills of Materials from hardware, IoT, maker, and software repositories, normalizing component names, identifying missing parts, and comparing live store pricing, stock, carts, and shipping through robo-market-search.
+- [homebrew-tap](https://github.com/AtaCanYmc/homebrew-tap): Homebrew Tap for AtaCanYmc
+- [reels-wiki](https://github.com/AtaCanYmc/reels-wiki): Local-first pipeline that converts saved Instagram Reels into atomic Markdown notes inside an existing 3-layer Obsidian LLM Wiki vault without duplicates.
+- [AWS-SAA-C03-Study-Notes](https://github.com/AtaCanYmc/AWS-SAA-C03-Study-Notes): Structured study repository for the AWS Certified Solutions Architect - Associate (SAA-C03) examination. Contains curated scenario reviews, comprehensive question banks with verified answer keys, and architectural concept callouts formatted in GitHub Flavored Markdown.
+- [SmartcaleESP32](https://github.com/AtaCanYmc/SmartcaleESP32): Non-blocking firmware for ESP32-C3 Super Mini smart kitchen scales with HX711 load cell sensing, SH1106 OLED display, Li-Po battery fuel gauge, and BLE GATT connectivity.
+- [bom-tr](https://github.com/AtaCanYmc/bom-tr): bomTR, Türkiye'deki 6 elektronik bileşen mağazasında fiyat/stok kıyaslamak için geliştirilmiş bir Chrome Manifest V3 eklentisidir.
+- [robo-market-search](https://github.com/AtaCanYmc/robo-market-search): Türkiye'nin en popüler elektronik ve robotik pazarlarında tek satır kodla, çok hızlı ve eşzamanlı arama yapmanızı sağlayan Python istemci kütüphanesi.
 - [ForexFactoryScrapper](https://github.com/AtaCanYmc/ForexFactoryScrapper): ForexFactoryScrapper is a Python-based web scraping tool designed to extract financial event data from the ForexFactory website. This project provides a simple and effective way to scrape calendar events, forecast data, actual values, and other relevant information for forex trading analysis.
 - [izbb-acikveri-haritalari](https://github.com/AtaCanYmc/izbb-acikveri-haritalari): İzmir Açık Veri Haritaları, İzmir Büyükşehir Belediyesi'nin açık veri API'lerini kullanarak, şehrin çeşitli kategorilerindeki önemli yerlerini etkileşimli haritalar üzerinde sunmaktadır.
-- [RubberOtter](https://github.com/AtaCanYmc/RubberOtter): RubberOtter is an open-source ATmega32U4 + HM-10/ESP32 wireless USB Human Interface Device (HID) hardware platform. This repository is focused exclusively on PlatformIO firmware, the ATmega32U4 Caterina 1200 bps Web Serial Flasher, and the rubberotter Python SDK, CLI, and MCP server.
-- [RubberDeck](https://github.com/AtaCanYmc/RubberDeck): Unified control PWA and Capacitor 8 (Android/iOS) application for RubberOtter and RubberOrca USB HID + BLE 5.0 hardware.
-- [RubberOrca](https://github.com/AtaCanYmc/RubberOrca): Single-chip ESP32-S3 firmware that exposes a wired USB HID keyboard, mouse, and consumer control interface to a target host while accepting wireless commands over BLE 5.0 GATT.
-- [rtfs](https://github.com/AtaCanYmc/rtfs): rtfs is an asynchronous Python 3.11+ CLI, SDK, and FastMCP server that queries multiple screenplay archives, parses PDF and HTML layouts into a typed Pydantic v2 Abstract Syntax Tree, and exports to JSON, Fountain, or dialogue analytics.
-- [tap-brewer](https://github.com/AtaCanYmc/tap-brewer): An open-source AI agent skill that publishes the project in your current working directory to a personal Homebrew tap repository, updates the tap README.md table, and validates the generated formula.
-- [WorthIt](https://github.com/AtaCanYmc/WorthIt): A professional, global-ready React Native application designed to help users make smarter shopping decisions. Compare Pizza deals by area, Coffee sizes by volume, and Market products by unit price.
-- [izko-gold-price-api](https://github.com/AtaCanYmc/izko-gold-price-api): Flask REST API and Python package that scrapes live gold and currency rates from the Izmir Jewelers Chamber (izko.org.tr) using headless Chromium via Playwright.
 <!-- END_LATEST_PROJECTS -->
 
 <br/>
