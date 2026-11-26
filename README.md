@@ -194,10 +194,10 @@
 ### `04` // SELECTED RELEASES & LIVE FEED
 
 <!-- START_LATEST_PROJECTS -->
-- [prompts-and-skills](https://github.com/AtaCanYmc/prompts-and-skills): A production-grade, structured repository dedicated to high-level AI System Prompts, Agentic Skills, Security Audit Frameworks, and Architectural Guidelines for modern Large Language Models (LLMs) and Autonomous AI Agents.
+- [reels-wiki](https://github.com/AtaCanYmc/reels-wiki): Local-first pipeline that converts saved Instagram Reels into atomic Markdown notes inside an existing 3-layer Obsidian LLM Wiki vault without duplicates.
 - [bom-sourcing](https://github.com/AtaCanYmc/bom-sourcing): Agent skill for extracting traceable Bills of Materials from hardware, IoT, maker, and software repositories, normalizing component names, identifying missing parts, and comparing live store pricing, stock, carts, and shipping through robo-market-search.
 - [homebrew-tap](https://github.com/AtaCanYmc/homebrew-tap): Homebrew Tap for AtaCanYmc
-- [reels-wiki](https://github.com/AtaCanYmc/reels-wiki): Local-first pipeline that converts saved Instagram Reels into atomic Markdown notes inside an existing 3-layer Obsidian LLM Wiki vault without duplicates.
+- [prompts-and-skills](https://github.com/AtaCanYmc/prompts-and-skills): A production-grade, structured repository dedicated to high-level AI System Prompts, Agentic Skills, Security Audit Frameworks, and Architectural Guidelines for modern Large Language Models (LLMs) and Autonomous AI Agents.
 - [AWS-SAA-C03-Study-Notes](https://github.com/AtaCanYmc/AWS-SAA-C03-Study-Notes): Structured study repository for the AWS Certified Solutions Architect - Associate (SAA-C03) examination. Contains curated scenario reviews, comprehensive question banks with verified answer keys, and architectural concept callouts formatted in GitHub Flavored Markdown.
 - [SmartcaleESP32](https://github.com/AtaCanYmc/SmartcaleESP32): Non-blocking firmware for ESP32-C3 Super Mini smart kitchen scales with HX711 load cell sensing, SH1106 OLED display, Li-Po battery fuel gauge, and BLE GATT connectivity.
 - [bom-tr](https://github.com/AtaCanYmc/bom-tr): bomTR, Türkiye'deki 6 elektronik bileşen mağazasında fiyat/stok kıyaslamak için geliştirilmiş bir Chrome Manifest V3 eklentisidir.
