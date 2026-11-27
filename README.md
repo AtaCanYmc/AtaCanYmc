@@ -194,6 +194,8 @@
 ### `04` // SELECTED RELEASES & LIVE FEED
 
 <!-- START_LATEST_PROJECTS -->
+- [robo-market-search](https://github.com/AtaCanYmc/robo-market-search): Türkiye'nin en popüler elektronik ve robotik pazarlarında tek satır kodla, çok hızlı ve eşzamanlı arama yapmanızı sağlayan Python kütüphanesi ve ekosistemi.
+- [ForexFactoryScrapper](https://github.com/AtaCanYmc/ForexFactoryScrapper): ForexFactoryScrapper is a Python-based web scraping tool designed to extract financial event data from the ForexFactory website. This project provides a simple and effective way to scrape calendar events, forecast data, actual values, and other relevant information for forex trading analysis.
 - [reels-wiki](https://github.com/AtaCanYmc/reels-wiki): Local-first pipeline that converts saved Instagram Reels into atomic Markdown notes inside an existing 3-layer Obsidian LLM Wiki vault without duplicates.
 - [bom-sourcing](https://github.com/AtaCanYmc/bom-sourcing): Agent skill for extracting traceable Bills of Materials from hardware, IoT, maker, and software repositories, normalizing component names, identifying missing parts, and comparing live store pricing, stock, carts, and shipping through robo-market-search.
 - [homebrew-tap](https://github.com/AtaCanYmc/homebrew-tap): Homebrew Tap for AtaCanYmc
@@ -201,8 +203,6 @@
 - [AWS-SAA-C03-Study-Notes](https://github.com/AtaCanYmc/AWS-SAA-C03-Study-Notes): Structured study repository for the AWS Certified Solutions Architect - Associate (SAA-C03) examination. Contains curated scenario reviews, comprehensive question banks with verified answer keys, and architectural concept callouts formatted in GitHub Flavored Markdown.
 - [SmartcaleESP32](https://github.com/AtaCanYmc/SmartcaleESP32): Non-blocking firmware for ESP32-C3 Super Mini smart kitchen scales with HX711 load cell sensing, SH1106 OLED display, Li-Po battery fuel gauge, and BLE GATT connectivity.
 - [bom-tr](https://github.com/AtaCanYmc/bom-tr): bomTR, Türkiye'deki 6 elektronik bileşen mağazasında fiyat/stok kıyaslamak için geliştirilmiş bir Chrome Manifest V3 eklentisidir.
-- [robo-market-search](https://github.com/AtaCanYmc/robo-market-search): Türkiye'nin en popüler elektronik ve robotik pazarlarında tek satır kodla, çok hızlı ve eşzamanlı arama yapmanızı sağlayan Python istemci kütüphanesi.
-- [ForexFactoryScrapper](https://github.com/AtaCanYmc/ForexFactoryScrapper): ForexFactoryScrapper is a Python-based web scraping tool designed to extract financial event data from the ForexFactory website. This project provides a simple and effective way to scrape calendar events, forecast data, actual values, and other relevant information for forex trading analysis.
 - [izbb-acikveri-haritalari](https://github.com/AtaCanYmc/izbb-acikveri-haritalari): İzmir Açık Veri Haritaları, İzmir Büyükşehir Belediyesi'nin açık veri API'lerini kullanarak, şehrin çeşitli kategorilerindeki önemli yerlerini etkileşimli haritalar üzerinde sunmaktadır.
 <!-- END_LATEST_PROJECTS -->
 
